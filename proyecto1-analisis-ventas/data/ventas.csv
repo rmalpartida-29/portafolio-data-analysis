@@ -1,0 +1,16 @@
+fecha,producto,categoria,cantidad,precio_unitario
+2024-01-05,Laptop,Tecnologia,2,2500
+2024-01-12,Mouse,Tecnologia,5,45
+2024-01-15,Escritorio,Muebles,1,800
+2024-01-20,Silla,Muebles,3,350
+2024-02-03,Laptop,Tecnologia,1,2500
+2024-02-10,Teclado,Tecnologia,4,120
+2024-02-14,Lampara,Muebles,2,95
+2024-02-22,Monitor,Tecnologia,2,650
+2024-03-01,Silla,Muebles,5,350
+2024-03-08,Mouse,Tecnologia,8,45
+2024-03-15,Escritorio,Muebles,2,800
+2024-03-20,Teclado,Tecnologia,3,120
+2024-04-02,Laptop,Tecnologia,3,2500
+2024-04-10,Lampara,Muebles,4,95
+2024-04-18,Monitor,Tecnologia,1,650
