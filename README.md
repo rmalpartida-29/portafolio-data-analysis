@@ -1,8 +1,8 @@
 # 📊 Portafolio — Análisis de Datos & Business Intelligence
 
 **Roy Yangaly Malpartida Sanchez**  
-Estudiante de Ingeniería de Sistemas — 8vo ciclo | Universidad César Vallejo  
-📞 991 125 617 | Roymsyangaly@gmail.com | Lima, Perú
+Estudiante de Ingeniería de Sistemas — 8vo ciclo
+
 
 ---
 
