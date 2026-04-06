@@ -1,0 +1,1501 @@
+﻿empleado_id,edad,departamento,cargo,antiguedad,salario,horas_extra,satisfaccion,evaluacion,distancia_km,desercion,desercion_label,rango_antiguedad
+EMP-0001,50,Finanzas,Coordinador,6,2360.0,1,3,2.3,15,0,Se quedó,6-10 años
+EMP-0002,36,TI,Gerente,11,2392.0,1,1,4.8,44,0,Se quedó,11+ años
+EMP-0003,29,Finanzas,Analista,16,3451.0,1,4,3.7,3,0,Se quedó,11+ años
+EMP-0004,42,Operaciones,Asistente,16,3643.0,0,1,2.5,43,0,Se quedó,11+ años
+EMP-0005,40,Finanzas,Supervisor,9,3322.0,0,3,4.4,47,0,Se quedó,6-10 años
+EMP-0006,44,Operaciones,Supervisor,18,1758.0,0,4,4.7,35,1,Renunció,11+ años
+EMP-0007,32,Operaciones,Supervisor,13,3311.0,1,2,2.5,14,0,Se quedó,11+ años
+EMP-0008,32,Operaciones,Asistente,10,1762.0,0,1,4.5,2,1,Renunció,6-10 años
+EMP-0009,45,Marketing,Analista,1,3345.0,1,3,4.8,29,0,Se quedó,0-2 años
+EMP-0010,57,Operaciones,Asistente,17,1500.0,0,2,4.8,4,0,Se quedó,11+ años
+EMP-0011,45,Operaciones,Supervisor,6,2351.0,1,1,4.7,26,1,Renunció,6-10 años
+EMP-0012,24,TI,Gerente,11,1757.0,1,1,3.6,51,1,Renunció,11+ años
+EMP-0013,43,Ventas,Coordinador,1,3456.0,0,4,3.1,12,0,Se quedó,0-2 años
+EMP-0014,23,RRHH,Asistente,19,3813.0,0,3,2.0,2,0,Se quedó,11+ años
+EMP-0015,45,Ventas,Asistente,17,2643.0,1,2,2.2,17,1,Renunció,11+ años
+EMP-0016,51,Operaciones,Analista,5,2608.0,0,1,3.3,35,0,Se quedó,3-5 años
+EMP-0017,23,TI,Analista,9,3235.0,0,4,3.2,10,0,Se quedó,6-10 años
+EMP-0018,42,Finanzas,Asistente,19,3822.0,1,2,2.6,48,0,Se quedó,11+ años
+EMP-0019,54,TI,Supervisor,14,2477.0,0,2,3.2,22,0,Se quedó,11+ años
+EMP-0020,33,Operaciones,Coordinador,4,1998.0,1,1,2.5,41,1,Renunció,3-5 años
+EMP-0021,43,TI,Analista,19,3162.0,1,2,4.5,43,1,Renunció,11+ años
+EMP-0022,46,TI,Supervisor,2,1500.0,0,1,2.9,21,0,Se quedó,0-2 años
+EMP-0023,48,Operaciones,Gerente,4,3512.0,0,4,3.8,15,0,Se quedó,3-5 años
+EMP-0024,49,Marketing,Analista,7,1837.0,0,4,3.5,35,0,Se quedó,6-10 años
+EMP-0025,37,TI,Supervisor,7,2217.0,1,2,2.2,48,0,Se quedó,6-10 años
+EMP-0026,36,RRHH,Supervisor,7,3521.0,0,1,4.8,21,0,Se quedó,6-10 años
+EMP-0027,24,RRHH,Coordinador,11,2067.0,1,3,3.6,21,1,Renunció,11+ años
+EMP-0028,28,TI,Coordinador,7,3162.0,0,4,3.0,21,1,Renunció,6-10 años
+EMP-0029,42,Marketing,Gerente,10,3849.0,0,1,2.5,44,0,Se quedó,6-10 años
+EMP-0030,30,Finanzas,Supervisor,13,2550.0,0,1,3.0,32,1,Renunció,11+ años
+EMP-0031,39,Operaciones,Supervisor,7,2764.0,0,1,2.1,55,0,Se quedó,6-10 años
+EMP-0032,25,RRHH,Coordinador,9,2327.0,0,2,3.1,5,0,Se quedó,6-10 años
+EMP-0033,46,Finanzas,Analista,6,2556.0,0,3,3.6,39,1,Renunció,6-10 años
+EMP-0034,35,TI,Analista,16,1562.0,0,2,4.6,9,0,Se quedó,11+ años
+EMP-0035,30,Finanzas,Asistente,3,2170.0,0,4,4.1,53,1,Renunció,3-5 años
+EMP-0036,47,Ventas,Coordinador,12,1500.0,0,2,2.3,18,0,Se quedó,11+ años
+EMP-0037,23,RRHH,Asistente,3,1704.0,1,1,2.4,21,0,Se quedó,3-5 años
+EMP-0038,41,TI,Coordinador,4,1500.0,0,2,3.3,8,0,Se quedó,3-5 años
+EMP-0039,49,Operaciones,Gerente,3,2712.0,0,1,2.6,44,1,Renunció,3-5 años
+EMP-0040,28,Marketing,Supervisor,17,4801.0,1,3,2.1,52,1,Renunció,11+ años
+EMP-0041,29,TI,Gerente,5,2034.0,0,2,4.4,34,0,Se quedó,3-5 años
+EMP-0042,56,Operaciones,Coordinador,1,3591.0,1,2,2.1,10,0,Se quedó,0-2 años
+EMP-0043,35,Marketing,Supervisor,10,3829.0,0,2,4.5,51,0,Se quedó,6-10 años
+EMP-0044,38,Marketing,Analista,13,1511.0,0,1,2.4,41,1,Renunció,11+ años
+EMP-0045,57,TI,Analista,4,1647.0,1,1,4.9,57,1,Renunció,3-5 años
+EMP-0046,25,Finanzas,Asistente,5,3628.0,0,2,3.8,24,0,Se quedó,3-5 años
+EMP-0047,23,Finanzas,Coordinador,9,2352.0,1,2,4.2,40,0,Se quedó,6-10 años
+EMP-0048,27,Marketing,Coordinador,7,1500.0,0,3,2.3,24,0,Se quedó,6-10 años
+EMP-0049,25,Finanzas,Analista,13,1892.0,1,3,4.6,56,0,Se quedó,11+ años
+EMP-0050,50,Ventas,Gerente,2,2887.0,1,4,4.5,32,0,Se quedó,0-2 años
+EMP-0051,39,Marketing,Supervisor,11,1777.0,0,3,4.0,56,0,Se quedó,11+ años
+EMP-0052,47,Marketing,Gerente,15,1500.0,1,3,3.5,33,1,Renunció,11+ años
+EMP-0053,55,Operaciones,Gerente,16,2146.0,0,3,4.2,38,0,Se quedó,11+ años
+EMP-0054,31,Finanzas,Analista,0,2216.0,1,1,2.0,44,1,Renunció,
+EMP-0055,57,Marketing,Analista,9,2450.0,0,3,3.8,57,0,Se quedó,6-10 años
+EMP-0056,35,Ventas,Analista,9,4038.0,1,3,4.5,56,0,Se quedó,6-10 años
+EMP-0057,52,Operaciones,Asistente,1,2493.0,0,2,3.1,51,0,Se quedó,0-2 años
+EMP-0058,36,TI,Gerente,8,2690.0,0,1,2.3,59,1,Renunció,6-10 años
+EMP-0059,29,Marketing,Coordinador,12,3723.0,1,4,3.3,49,0,Se quedó,11+ años
+EMP-0060,35,Ventas,Supervisor,15,2451.0,1,4,4.2,34,1,Renunció,11+ años
+EMP-0061,44,RRHH,Asistente,17,5737.0,0,3,2.3,11,0,Se quedó,11+ años
+EMP-0062,42,Ventas,Coordinador,18,1500.0,0,4,2.6,31,1,Renunció,11+ años
+EMP-0063,37,Ventas,Gerente,11,1680.0,0,4,2.4,18,0,Se quedó,11+ años
+EMP-0064,39,Operaciones,Analista,7,3120.0,0,4,4.4,23,0,Se quedó,6-10 años
+EMP-0065,45,TI,Gerente,16,4031.0,0,3,2.2,22,0,Se quedó,11+ años
+EMP-0066,47,RRHH,Supervisor,14,2252.0,1,4,4.1,43,0,Se quedó,11+ años
+EMP-0067,46,Finanzas,Asistente,9,1629.0,0,3,3.1,18,0,Se quedó,6-10 años
+EMP-0068,50,Finanzas,Asistente,14,4936.0,1,2,4.3,40,0,Se quedó,11+ años
+EMP-0069,36,Ventas,Supervisor,14,1778.0,1,2,4.9,47,0,Se quedó,11+ años
+EMP-0070,22,Operaciones,Coordinador,6,2795.0,0,4,2.3,41,0,Se quedó,6-10 años
+EMP-0071,46,Operaciones,Coordinador,12,4128.0,0,2,2.9,47,0,Se quedó,11+ años
+EMP-0072,28,Finanzas,Asistente,16,2045.0,0,3,4.4,39,0,Se quedó,11+ años
+EMP-0073,30,RRHH,Asistente,8,1903.0,0,2,2.8,20,0,Se quedó,6-10 años
+EMP-0074,45,TI,Analista,7,1956.0,1,4,2.6,13,0,Se quedó,6-10 años
+EMP-0075,22,RRHH,Coordinador,19,3500.0,0,3,4.5,45,0,Se quedó,11+ años
+EMP-0076,29,Marketing,Supervisor,17,3730.0,1,1,5.0,1,1,Renunció,11+ años
+EMP-0077,45,Marketing,Coordinador,12,2474.0,0,3,3.7,52,0,Se quedó,11+ años
+EMP-0078,32,TI,Analista,15,5183.0,0,2,2.8,4,0,Se quedó,11+ años
+EMP-0079,38,Finanzas,Asistente,8,2472.0,0,1,3.2,24,1,Renunció,6-10 años
+EMP-0080,29,TI,Asistente,11,4093.0,0,3,2.5,36,0,Se quedó,11+ años
+EMP-0081,56,Operaciones,Analista,11,2053.0,0,1,4.3,36,1,Renunció,11+ años
+EMP-0082,56,Marketing,Supervisor,5,6207.0,0,1,4.3,45,0,Se quedó,3-5 años
+EMP-0083,54,Ventas,Asistente,18,4574.0,1,1,4.6,2,0,Se quedó,11+ años
+EMP-0084,26,Ventas,Gerente,6,2319.0,1,3,2.1,28,0,Se quedó,6-10 años
+EMP-0085,49,Finanzas,Asistente,2,4332.0,0,2,3.7,26,0,Se quedó,0-2 años
+EMP-0086,28,Operaciones,Gerente,15,4245.0,0,3,2.6,23,0,Se quedó,11+ años
+EMP-0087,30,RRHH,Analista,17,4542.0,0,2,3.0,15,1,Renunció,11+ años
+EMP-0088,29,Operaciones,Analista,15,1500.0,0,3,4.4,36,0,Se quedó,11+ años
+EMP-0089,33,Ventas,Asistente,6,3254.0,0,3,2.6,27,0,Se quedó,6-10 años
+EMP-0090,55,Ventas,Coordinador,3,3032.0,0,3,3.9,6,0,Se quedó,3-5 años
+EMP-0091,54,Marketing,Gerente,7,2947.0,0,2,4.0,35,1,Renunció,6-10 años
+EMP-0092,44,Operaciones,Supervisor,12,2663.0,0,3,4.9,39,0,Se quedó,11+ años
+EMP-0093,45,Operaciones,Asistente,12,2695.0,0,1,4.3,38,1,Renunció,11+ años
+EMP-0094,56,Ventas,Supervisor,16,4078.0,0,3,4.4,35,0,Se quedó,11+ años
+EMP-0095,43,RRHH,Asistente,16,3028.0,1,1,3.6,36,1,Renunció,11+ años
+EMP-0096,48,Finanzas,Coordinador,4,2662.0,0,4,2.6,10,0,Se quedó,3-5 años
+EMP-0097,56,Finanzas,Coordinador,5,3850.0,0,4,3.3,30,0,Se quedó,3-5 años
+EMP-0098,22,Operaciones,Coordinador,18,2885.0,0,2,3.6,53,0,Se quedó,11+ años
+EMP-0099,56,Finanzas,Coordinador,12,2997.0,1,2,4.0,41,0,Se quedó,11+ años
+EMP-0100,35,Ventas,Analista,13,5150.0,1,4,3.8,38,0,Se quedó,11+ años
+EMP-0101,24,Ventas,Analista,3,2051.0,1,3,3.2,29,1,Renunció,3-5 años
+EMP-0102,22,Operaciones,Gerente,6,1500.0,0,3,2.8,52,0,Se quedó,6-10 años
+EMP-0103,26,Operaciones,Supervisor,7,2512.0,0,3,2.5,59,1,Renunció,6-10 años
+EMP-0104,47,Marketing,Asistente,12,2659.0,1,4,4.1,43,0,Se quedó,11+ años
+EMP-0105,35,Operaciones,Asistente,5,3257.0,0,1,3.9,39,1,Renunció,3-5 años
+EMP-0106,48,RRHH,Analista,5,2548.0,0,2,4.1,50,0,Se quedó,3-5 años
+EMP-0107,30,Finanzas,Asistente,2,3301.0,1,1,3.1,4,1,Renunció,0-2 años
+EMP-0108,36,Operaciones,Analista,2,6647.0,0,4,2.8,5,0,Se quedó,0-2 años
+EMP-0109,36,TI,Gerente,12,3363.0,0,1,4.3,4,0,Se quedó,11+ años
+EMP-0110,47,Marketing,Supervisor,1,3608.0,0,3,4.3,36,0,Se quedó,0-2 años
+EMP-0111,34,TI,Gerente,15,2317.0,0,3,3.4,59,0,Se quedó,11+ años
+EMP-0112,53,Ventas,Coordinador,5,1500.0,0,1,3.8,45,0,Se quedó,3-5 años
+EMP-0113,53,Finanzas,Coordinador,7,1500.0,1,4,3.1,16,0,Se quedó,6-10 años
+EMP-0114,25,Operaciones,Coordinador,7,1983.0,1,1,4.1,25,1,Renunció,6-10 años
+EMP-0115,51,TI,Gerente,5,1500.0,0,3,4.5,14,1,Renunció,3-5 años
+EMP-0116,44,Finanzas,Asistente,13,2997.0,1,3,4.1,11,0,Se quedó,11+ años
+EMP-0117,36,Ventas,Supervisor,2,2094.0,0,4,3.5,29,1,Renunció,0-2 años
+EMP-0118,50,RRHH,Coordinador,9,1500.0,0,1,3.4,34,0,Se quedó,6-10 años
+EMP-0119,57,Marketing,Coordinador,2,2572.0,1,3,3.9,22,1,Renunció,0-2 años
+EMP-0120,34,Finanzas,Coordinador,11,1816.0,1,3,4.0,14,0,Se quedó,11+ años
+EMP-0121,53,Finanzas,Supervisor,16,2923.0,1,1,3.7,56,1,Renunció,11+ años
+EMP-0122,28,RRHH,Coordinador,4,3239.0,1,1,3.9,24,0,Se quedó,3-5 años
+EMP-0123,43,Finanzas,Supervisor,19,1843.0,1,2,2.3,59,1,Renunció,11+ años
+EMP-0124,49,Ventas,Coordinador,8,2220.0,1,4,4.9,39,1,Renunció,6-10 años
+EMP-0125,23,Ventas,Gerente,19,2660.0,0,4,4.4,26,1,Renunció,11+ años
+EMP-0126,27,RRHH,Gerente,6,1500.0,1,1,3.1,43,0,Se quedó,6-10 años
+EMP-0127,49,Marketing,Supervisor,3,2660.0,1,4,3.7,36,1,Renunció,3-5 años
+EMP-0128,49,Operaciones,Gerente,12,1500.0,1,3,2.1,39,0,Se quedó,11+ años
+EMP-0129,41,TI,Supervisor,12,3060.0,0,1,2.1,16,1,Renunció,11+ años
+EMP-0130,51,Operaciones,Gerente,9,2051.0,0,1,2.8,58,1,Renunció,6-10 años
+EMP-0131,32,Finanzas,Gerente,17,1500.0,0,1,4.1,38,0,Se quedó,11+ años
+EMP-0132,49,TI,Supervisor,16,1935.0,0,2,4.6,59,1,Renunció,11+ años
+EMP-0133,46,RRHH,Asistente,19,1968.0,1,4,3.7,32,0,Se quedó,11+ años
+EMP-0134,54,RRHH,Gerente,19,3742.0,0,2,3.6,6,0,Se quedó,11+ años
+EMP-0135,22,Marketing,Coordinador,12,2616.0,0,3,3.2,34,0,Se quedó,11+ años
+EMP-0136,48,TI,Asistente,16,1665.0,1,4,2.5,56,0,Se quedó,11+ años
+EMP-0137,34,Ventas,Supervisor,3,4720.0,0,2,2.4,8,0,Se quedó,3-5 años
+EMP-0138,24,TI,Asistente,0,3136.0,0,1,4.3,30,1,Renunció,
+EMP-0139,27,Finanzas,Analista,0,2133.0,0,2,4.8,27,0,Se quedó,
+EMP-0140,29,Ventas,Analista,14,1500.0,1,1,3.4,7,0,Se quedó,11+ años
+EMP-0141,48,RRHH,Gerente,12,2059.0,0,2,4.0,27,0,Se quedó,11+ años
+EMP-0142,30,TI,Gerente,16,2235.0,1,2,4.7,25,1,Renunció,11+ años
+EMP-0143,54,Operaciones,Coordinador,7,2829.0,0,2,2.3,56,1,Renunció,6-10 años
+EMP-0144,45,Marketing,Asistente,17,3112.0,0,1,4.3,46,0,Se quedó,11+ años
+EMP-0145,36,Operaciones,Analista,12,3370.0,0,2,3.9,41,1,Renunció,11+ años
+EMP-0146,53,Marketing,Gerente,13,1500.0,1,4,3.8,15,0,Se quedó,11+ años
+EMP-0147,53,Finanzas,Asistente,7,2653.0,0,4,2.9,25,1,Renunció,6-10 años
+EMP-0148,45,Operaciones,Gerente,7,2290.0,0,4,4.1,22,0,Se quedó,6-10 años
+EMP-0149,33,TI,Gerente,14,7124.0,0,1,4.4,18,1,Renunció,11+ años
+EMP-0150,23,TI,Analista,12,2505.0,1,1,2.3,12,0,Se quedó,11+ años
+EMP-0151,24,Operaciones,Analista,6,1903.0,0,4,3.6,23,1,Renunció,6-10 años
+EMP-0152,38,TI,Gerente,4,2551.0,1,4,2.3,51,0,Se quedó,3-5 años
+EMP-0153,23,Finanzas,Supervisor,16,2432.0,1,4,4.6,45,0,Se quedó,11+ años
+EMP-0154,23,Ventas,Gerente,15,1500.0,0,3,3.5,39,1,Renunció,11+ años
+EMP-0155,49,Finanzas,Gerente,1,2874.0,0,4,4.4,25,0,Se quedó,0-2 años
+EMP-0156,44,Marketing,Coordinador,17,2155.0,0,2,3.1,10,1,Renunció,11+ años
+EMP-0157,53,Finanzas,Coordinador,16,2415.0,0,3,2.4,30,1,Renunció,11+ años
+EMP-0158,54,Marketing,Coordinador,6,1721.0,0,3,2.1,10,0,Se quedó,6-10 años
+EMP-0159,22,TI,Supervisor,12,1576.0,0,1,2.8,34,0,Se quedó,11+ años
+EMP-0160,40,Ventas,Supervisor,17,3469.0,0,2,2.7,46,0,Se quedó,11+ años
+EMP-0161,23,TI,Gerente,13,3802.0,0,1,3.7,13,1,Renunció,11+ años
+EMP-0162,47,RRHH,Coordinador,17,2885.0,0,1,2.1,54,1,Renunció,11+ años
+EMP-0163,53,TI,Supervisor,12,1500.0,0,2,3.6,29,0,Se quedó,11+ años
+EMP-0164,27,Marketing,Analista,10,2961.0,1,1,3.2,38,1,Renunció,6-10 años
+EMP-0165,53,TI,Gerente,15,1500.0,1,2,3.7,41,0,Se quedó,11+ años
+EMP-0166,25,TI,Asistente,16,1873.0,1,2,4.1,45,0,Se quedó,11+ años
+EMP-0167,32,Ventas,Gerente,7,3450.0,0,1,3.9,9,1,Renunció,6-10 años
+EMP-0168,38,TI,Asistente,18,3175.0,0,4,5.0,13,0,Se quedó,11+ años
+EMP-0169,45,Ventas,Coordinador,19,2930.0,0,1,2.4,37,0,Se quedó,11+ años
+EMP-0170,26,Operaciones,Asistente,14,4126.0,0,3,3.3,14,0,Se quedó,11+ años
+EMP-0171,55,RRHH,Coordinador,8,3053.0,0,1,3.3,37,1,Renunció,6-10 años
+EMP-0172,27,Ventas,Analista,19,1500.0,1,2,3.3,9,1,Renunció,11+ años
+EMP-0173,43,Marketing,Asistente,9,2105.0,0,3,4.0,8,0,Se quedó,6-10 años
+EMP-0174,32,Operaciones,Gerente,11,2400.0,0,2,3.5,39,0,Se quedó,11+ años
+EMP-0175,37,Ventas,Coordinador,19,2290.0,1,4,3.6,40,1,Renunció,11+ años
+EMP-0176,54,Ventas,Gerente,0,1907.0,0,4,3.3,54,1,Renunció,
+EMP-0177,30,RRHH,Supervisor,19,1616.0,0,3,5.0,3,0,Se quedó,11+ años
+EMP-0178,27,Marketing,Coordinador,8,6376.0,0,4,4.8,55,0,Se quedó,6-10 años
+EMP-0179,37,Finanzas,Asistente,14,2089.0,0,4,2.9,56,0,Se quedó,11+ años
+EMP-0180,50,Finanzas,Coordinador,0,6252.0,1,1,2.3,47,0,Se quedó,
+EMP-0181,24,Ventas,Gerente,11,1546.0,0,1,4.5,40,0,Se quedó,11+ años
+EMP-0182,41,TI,Analista,2,3174.0,0,4,5.0,33,0,Se quedó,0-2 años
+EMP-0183,57,Marketing,Coordinador,10,2675.0,1,4,2.9,32,0,Se quedó,6-10 años
+EMP-0184,40,Operaciones,Asistente,1,1688.0,1,1,3.1,7,1,Renunció,0-2 años
+EMP-0185,47,TI,Supervisor,15,2024.0,1,4,4.8,19,0,Se quedó,11+ años
+EMP-0186,24,TI,Analista,8,2426.0,1,4,4.1,34,0,Se quedó,6-10 años
+EMP-0187,40,Marketing,Supervisor,14,1741.0,0,2,2.9,14,0,Se quedó,11+ años
+EMP-0188,41,Ventas,Coordinador,11,2203.0,0,4,3.7,50,0,Se quedó,11+ años
+EMP-0189,53,Ventas,Gerente,0,1500.0,0,3,4.8,47,0,Se quedó,
+EMP-0190,28,Ventas,Gerente,12,3244.0,0,2,4.4,46,0,Se quedó,11+ años
+EMP-0191,54,Ventas,Asistente,13,3987.0,1,3,4.2,56,0,Se quedó,11+ años
+EMP-0192,39,Finanzas,Gerente,7,2927.0,1,4,4.2,57,0,Se quedó,6-10 años
+EMP-0193,22,Ventas,Analista,7,6037.0,0,1,2.5,19,0,Se quedó,6-10 años
+EMP-0194,32,Finanzas,Gerente,11,3206.0,0,2,4.5,51,0,Se quedó,11+ años
+EMP-0195,49,Finanzas,Asistente,0,3855.0,0,1,2.8,54,0,Se quedó,
+EMP-0196,46,Ventas,Coordinador,10,4005.0,1,2,4.8,59,0,Se quedó,6-10 años
+EMP-0197,44,RRHH,Coordinador,7,1500.0,0,1,3.1,26,0,Se quedó,6-10 años
+EMP-0198,52,Operaciones,Gerente,9,2891.0,1,2,4.6,17,1,Renunció,6-10 años
+EMP-0199,51,TI,Supervisor,18,1500.0,1,2,2.8,54,1,Renunció,11+ años
+EMP-0200,56,Finanzas,Coordinador,10,1522.0,1,3,3.5,28,0,Se quedó,6-10 años
+EMP-0201,28,Marketing,Gerente,6,1631.0,1,1,2.3,19,0,Se quedó,6-10 años
+EMP-0202,37,Marketing,Asistente,10,2154.0,1,3,4.0,27,0,Se quedó,6-10 años
+EMP-0203,47,Operaciones,Gerente,16,3166.0,0,3,4.5,48,0,Se quedó,11+ años
+EMP-0204,23,Marketing,Coordinador,0,2903.0,0,1,4.2,52,1,Renunció,
+EMP-0205,22,RRHH,Asistente,7,2428.0,0,2,3.6,57,0,Se quedó,6-10 años
+EMP-0206,33,Marketing,Gerente,5,3259.0,0,3,2.1,19,1,Renunció,3-5 años
+EMP-0207,26,TI,Analista,17,3339.0,1,1,4.8,33,0,Se quedó,11+ años
+EMP-0208,53,TI,Asistente,5,2913.0,0,2,4.1,51,0,Se quedó,3-5 años
+EMP-0209,30,Finanzas,Analista,4,1500.0,1,3,4.2,7,0,Se quedó,3-5 años
+EMP-0210,56,Ventas,Supervisor,12,1816.0,0,3,4.4,29,1,Renunció,11+ años
+EMP-0211,40,RRHH,Asistente,18,2466.0,0,3,4.2,55,1,Renunció,11+ años
+EMP-0212,37,Finanzas,Analista,7,3273.0,1,2,3.3,43,0,Se quedó,6-10 años
+EMP-0213,24,RRHH,Coordinador,8,1500.0,0,3,4.2,5,0,Se quedó,6-10 años
+EMP-0214,41,Ventas,Coordinador,16,2430.0,0,2,3.9,30,0,Se quedó,11+ años
+EMP-0215,45,Marketing,Supervisor,2,1500.0,0,4,4.6,49,1,Renunció,0-2 años
+EMP-0216,54,Marketing,Asistente,18,3679.0,1,3,4.4,43,0,Se quedó,11+ años
+EMP-0217,45,Ventas,Asistente,10,2689.0,0,4,2.1,56,0,Se quedó,6-10 años
+EMP-0218,32,Finanzas,Asistente,16,1500.0,0,1,3.1,58,1,Renunció,11+ años
+EMP-0219,29,Ventas,Supervisor,18,1500.0,0,3,2.1,8,0,Se quedó,11+ años
+EMP-0220,57,Operaciones,Asistente,1,2850.0,1,1,2.3,42,1,Renunció,0-2 años
+EMP-0221,41,TI,Coordinador,7,4230.0,1,1,3.8,12,0,Se quedó,6-10 años
+EMP-0222,56,Finanzas,Analista,18,1574.0,0,1,4.6,42,0,Se quedó,11+ años
+EMP-0223,46,RRHH,Coordinador,6,3343.0,0,4,2.4,13,0,Se quedó,6-10 años
+EMP-0224,56,Operaciones,Coordinador,16,1965.0,1,2,3.4,26,0,Se quedó,11+ años
+EMP-0225,46,Finanzas,Analista,5,3392.0,0,4,4.7,18,0,Se quedó,3-5 años
+EMP-0226,50,Ventas,Coordinador,18,3208.0,0,4,4.4,42,0,Se quedó,11+ años
+EMP-0227,39,Ventas,Supervisor,5,2597.0,0,1,3.6,51,0,Se quedó,3-5 años
+EMP-0228,39,Ventas,Analista,1,1500.0,1,3,4.3,52,0,Se quedó,0-2 años
+EMP-0229,23,Ventas,Coordinador,5,3205.0,0,2,3.6,49,0,Se quedó,3-5 años
+EMP-0230,56,RRHH,Gerente,4,2983.0,0,1,2.5,20,1,Renunció,3-5 años
+EMP-0231,37,Operaciones,Coordinador,18,2876.0,1,2,2.4,16,1,Renunció,11+ años
+EMP-0232,57,Marketing,Supervisor,19,2639.0,1,4,2.6,37,1,Renunció,11+ años
+EMP-0233,54,TI,Asistente,3,1717.0,0,2,3.1,3,1,Renunció,3-5 años
+EMP-0234,25,RRHH,Coordinador,16,3764.0,0,2,4.8,27,0,Se quedó,11+ años
+EMP-0235,54,RRHH,Asistente,10,3496.0,1,3,4.4,15,0,Se quedó,6-10 años
+EMP-0236,35,Marketing,Gerente,3,1587.0,1,1,3.3,58,0,Se quedó,3-5 años
+EMP-0237,42,Marketing,Coordinador,12,4129.0,1,2,3.5,34,0,Se quedó,11+ años
+EMP-0238,41,TI,Analista,19,2573.0,0,2,2.8,45,0,Se quedó,11+ años
+EMP-0239,29,TI,Asistente,16,2570.0,0,4,4.1,22,0,Se quedó,11+ años
+EMP-0240,28,Marketing,Gerente,8,2274.0,1,4,4.4,40,0,Se quedó,6-10 años
+EMP-0241,24,Ventas,Analista,3,2366.0,1,2,2.7,23,1,Renunció,3-5 años
+EMP-0242,38,RRHH,Analista,13,4223.0,0,1,2.1,59,0,Se quedó,11+ años
+EMP-0243,54,Finanzas,Analista,18,3689.0,0,2,3.9,49,0,Se quedó,11+ años
+EMP-0244,33,TI,Analista,2,3658.0,1,2,3.7,4,0,Se quedó,0-2 años
+EMP-0245,43,TI,Coordinador,13,2628.0,0,3,3.2,51,0,Se quedó,11+ años
+EMP-0246,43,Marketing,Coordinador,7,3483.0,0,1,3.9,54,1,Renunció,6-10 años
+EMP-0247,51,Operaciones,Coordinador,0,1748.0,0,3,3.7,57,0,Se quedó,
+EMP-0248,29,Finanzas,Gerente,9,3082.0,0,1,2.8,41,1,Renunció,6-10 años
+EMP-0249,48,Finanzas,Gerente,17,2295.0,0,1,3.2,23,0,Se quedó,11+ años
+EMP-0250,48,TI,Gerente,15,1500.0,1,1,3.3,47,1,Renunció,11+ años
+EMP-0251,55,Ventas,Supervisor,7,1500.0,0,3,4.6,9,0,Se quedó,6-10 años
+EMP-0252,42,Operaciones,Gerente,0,1872.0,0,3,4.9,24,0,Se quedó,
+EMP-0253,51,Finanzas,Coordinador,11,2881.0,0,3,4.7,21,0,Se quedó,11+ años
+EMP-0254,54,TI,Coordinador,7,1873.0,0,4,4.2,41,0,Se quedó,6-10 años
+EMP-0255,49,Finanzas,Supervisor,15,1927.0,0,3,3.8,46,0,Se quedó,11+ años
+EMP-0256,54,Operaciones,Supervisor,17,3312.0,0,4,4.1,55,0,Se quedó,11+ años
+EMP-0257,26,Operaciones,Gerente,3,1955.0,1,4,4.8,53,0,Se quedó,3-5 años
+EMP-0258,40,RRHH,Asistente,5,4156.0,0,4,2.7,16,0,Se quedó,3-5 años
+EMP-0259,25,Marketing,Supervisor,11,3890.0,0,2,3.6,56,0,Se quedó,11+ años
+EMP-0260,56,Marketing,Analista,8,2462.0,0,2,4.1,55,1,Renunció,6-10 años
+EMP-0261,38,TI,Coordinador,14,3299.0,0,2,4.0,25,0,Se quedó,11+ años
+EMP-0262,49,Operaciones,Analista,15,3124.0,1,4,2.8,26,0,Se quedó,11+ años
+EMP-0263,51,RRHH,Coordinador,11,2212.0,0,4,3.8,49,0,Se quedó,11+ años
+EMP-0264,50,RRHH,Coordinador,13,3445.0,1,1,4.4,45,0,Se quedó,11+ años
+EMP-0265,27,Finanzas,Supervisor,12,3654.0,0,4,3.4,9,0,Se quedó,11+ años
+EMP-0266,56,Finanzas,Supervisor,1,1667.0,1,2,4.4,15,0,Se quedó,0-2 años
+EMP-0267,45,RRHH,Analista,2,2595.0,0,4,3.1,39,0,Se quedó,0-2 años
+EMP-0268,50,Finanzas,Coordinador,9,2584.0,1,4,4.8,33,1,Renunció,6-10 años
+EMP-0269,52,Operaciones,Analista,8,3428.0,0,1,3.6,1,0,Se quedó,6-10 años
+EMP-0270,56,Ventas,Asistente,19,2044.0,0,4,3.8,5,1,Renunció,11+ años
+EMP-0271,54,Operaciones,Analista,7,1922.0,1,3,2.1,56,0,Se quedó,6-10 años
+EMP-0272,42,RRHH,Gerente,9,2611.0,1,1,2.5,9,1,Renunció,6-10 años
+EMP-0273,53,RRHH,Analista,18,3915.0,0,4,3.9,44,0,Se quedó,11+ años
+EMP-0274,44,Operaciones,Gerente,2,1511.0,0,4,3.3,6,0,Se quedó,0-2 años
+EMP-0275,54,Finanzas,Gerente,4,1620.0,0,1,3.5,28,1,Renunció,3-5 años
+EMP-0276,24,Finanzas,Gerente,2,1982.0,1,4,2.2,45,0,Se quedó,0-2 años
+EMP-0277,39,Marketing,Asistente,15,2128.0,0,2,4.5,26,1,Renunció,11+ años
+EMP-0278,46,RRHH,Analista,16,1500.0,0,3,4.4,28,0,Se quedó,11+ años
+EMP-0279,52,TI,Analista,14,4444.0,1,3,2.6,40,0,Se quedó,11+ años
+EMP-0280,24,Marketing,Asistente,2,2317.0,1,2,3.9,15,1,Renunció,0-2 años
+EMP-0281,45,Finanzas,Coordinador,11,2182.0,1,4,4.5,6,1,Renunció,11+ años
+EMP-0282,53,Operaciones,Supervisor,8,4671.0,1,4,3.9,27,0,Se quedó,6-10 años
+EMP-0283,43,Finanzas,Analista,11,3252.0,1,3,2.9,38,0,Se quedó,11+ años
+EMP-0284,44,Operaciones,Supervisor,14,1970.0,0,4,4.0,4,0,Se quedó,11+ años
+EMP-0285,23,Marketing,Asistente,1,2607.0,0,3,2.6,11,1,Renunció,0-2 años
+EMP-0286,48,RRHH,Coordinador,17,2400.0,1,3,3.0,21,1,Renunció,11+ años
+EMP-0287,23,Finanzas,Coordinador,19,4356.0,0,2,2.7,30,0,Se quedó,11+ años
+EMP-0288,47,Operaciones,Coordinador,11,2283.0,1,3,3.7,18,1,Renunció,11+ años
+EMP-0289,38,RRHH,Asistente,3,1500.0,0,4,2.3,35,0,Se quedó,3-5 años
+EMP-0290,54,TI,Gerente,15,1500.0,0,4,4.8,3,1,Renunció,11+ años
+EMP-0291,30,Operaciones,Gerente,15,4403.0,1,1,3.0,12,1,Renunció,11+ años
+EMP-0292,50,Marketing,Supervisor,0,1780.0,1,4,2.7,27,0,Se quedó,
+EMP-0293,47,TI,Gerente,1,3191.0,0,1,3.5,53,1,Renunció,0-2 años
+EMP-0294,56,TI,Gerente,2,2512.0,1,3,2.8,30,0,Se quedó,0-2 años
+EMP-0295,46,Ventas,Coordinador,19,2066.0,1,4,3.6,21,1,Renunció,11+ años
+EMP-0296,45,Finanzas,Coordinador,16,2200.0,0,2,3.0,38,0,Se quedó,11+ años
+EMP-0297,34,Operaciones,Supervisor,19,4598.0,0,2,2.4,21,0,Se quedó,11+ años
+EMP-0298,28,TI,Analista,0,1500.0,1,2,2.8,38,1,Renunció,
+EMP-0299,57,Ventas,Supervisor,19,2091.0,1,3,3.3,40,0,Se quedó,11+ años
+EMP-0300,41,Marketing,Supervisor,5,3507.0,0,3,2.1,15,0,Se quedó,3-5 años
+EMP-0301,22,RRHH,Asistente,14,1500.0,1,1,4.3,18,1,Renunció,11+ años
+EMP-0302,29,Operaciones,Asistente,13,4134.0,1,2,3.9,52,0,Se quedó,11+ años
+EMP-0303,37,TI,Supervisor,19,3487.0,0,1,3.8,29,0,Se quedó,11+ años
+EMP-0304,35,Finanzas,Supervisor,14,2721.0,1,1,3.6,48,1,Renunció,11+ años
+EMP-0305,33,Ventas,Supervisor,13,1996.0,0,4,3.8,38,0,Se quedó,11+ años
+EMP-0306,44,TI,Gerente,4,1500.0,0,4,4.8,21,0,Se quedó,3-5 años
+EMP-0307,36,Finanzas,Asistente,5,3238.0,1,2,2.0,17,0,Se quedó,3-5 años
+EMP-0308,49,TI,Supervisor,16,7328.0,1,3,2.1,41,0,Se quedó,11+ años
+EMP-0309,55,Operaciones,Coordinador,10,2587.0,1,4,2.6,51,0,Se quedó,6-10 años
+EMP-0310,23,Operaciones,Coordinador,15,1500.0,0,3,2.5,18,0,Se quedó,11+ años
+EMP-0311,53,Operaciones,Gerente,11,2931.0,0,1,2.5,57,1,Renunció,11+ años
+EMP-0312,44,Marketing,Gerente,14,3443.0,0,1,4.0,55,0,Se quedó,11+ años
+EMP-0313,43,Marketing,Analista,3,1691.0,0,1,3.4,37,0,Se quedó,3-5 años
+EMP-0314,46,Ventas,Analista,17,1885.0,0,1,5.0,38,0,Se quedó,11+ años
+EMP-0315,43,Operaciones,Analista,2,1810.0,0,2,2.7,12,0,Se quedó,0-2 años
+EMP-0316,43,Finanzas,Gerente,7,1973.0,0,1,2.9,11,1,Renunció,6-10 años
+EMP-0317,27,TI,Gerente,2,2278.0,1,4,5.0,48,0,Se quedó,0-2 años
+EMP-0318,36,RRHH,Gerente,7,1730.0,0,1,4.5,52,1,Renunció,6-10 años
+EMP-0319,54,Finanzas,Coordinador,17,1500.0,0,3,3.4,49,0,Se quedó,11+ años
+EMP-0320,29,Marketing,Gerente,9,2617.0,0,4,3.7,20,0,Se quedó,6-10 años
+EMP-0321,26,Marketing,Coordinador,19,2269.0,0,3,4.5,9,0,Se quedó,11+ años
+EMP-0322,25,Finanzas,Analista,16,2050.0,0,3,3.4,1,0,Se quedó,11+ años
+EMP-0323,27,Marketing,Analista,7,2523.0,0,2,2.6,58,1,Renunció,6-10 años
+EMP-0324,53,Operaciones,Analista,10,1500.0,1,2,4.5,3,0,Se quedó,6-10 años
+EMP-0325,51,Ventas,Supervisor,4,2712.0,0,3,3.6,21,0,Se quedó,3-5 años
+EMP-0326,56,TI,Supervisor,12,2067.0,1,3,2.5,23,0,Se quedó,11+ años
+EMP-0327,37,Ventas,Asistente,4,2686.0,1,1,3.5,9,1,Renunció,3-5 años
+EMP-0328,34,TI,Asistente,12,2864.0,1,4,3.2,54,1,Renunció,11+ años
+EMP-0329,51,TI,Asistente,5,3837.0,0,1,4.6,19,0,Se quedó,3-5 años
+EMP-0330,40,Ventas,Supervisor,4,2543.0,1,2,2.4,45,1,Renunció,3-5 años
+EMP-0331,38,Finanzas,Supervisor,8,3739.0,0,2,4.6,55,0,Se quedó,6-10 años
+EMP-0332,40,TI,Asistente,15,2146.0,0,1,3.5,46,0,Se quedó,11+ años
+EMP-0333,49,Ventas,Asistente,1,2187.0,1,4,3.2,52,1,Renunció,0-2 años
+EMP-0334,47,TI,Gerente,0,2353.0,1,3,2.5,19,0,Se quedó,
+EMP-0335,47,RRHH,Asistente,7,3326.0,0,1,4.1,23,0,Se quedó,6-10 años
+EMP-0336,44,Finanzas,Gerente,18,3141.0,0,2,4.8,27,0,Se quedó,11+ años
+EMP-0337,30,Operaciones,Coordinador,10,2576.0,0,4,3.1,27,1,Renunció,6-10 años
+EMP-0338,33,TI,Supervisor,11,1500.0,0,2,2.7,39,0,Se quedó,11+ años
+EMP-0339,22,RRHH,Asistente,11,3119.0,0,4,3.7,36,0,Se quedó,11+ años
+EMP-0340,22,Operaciones,Supervisor,6,1729.0,1,4,4.4,12,0,Se quedó,6-10 años
+EMP-0341,55,Operaciones,Supervisor,12,1692.0,1,4,2.0,55,1,Renunció,11+ años
+EMP-0342,53,TI,Supervisor,7,1548.0,1,1,3.9,27,1,Renunció,6-10 años
+EMP-0343,46,Ventas,Coordinador,8,2361.0,0,1,3.8,46,1,Renunció,6-10 años
+EMP-0344,22,TI,Analista,6,3963.0,1,1,3.0,34,0,Se quedó,6-10 años
+EMP-0345,37,RRHH,Asistente,14,1659.0,1,4,3.4,33,0,Se quedó,11+ años
+EMP-0346,26,Operaciones,Analista,1,4776.0,1,4,2.7,28,1,Renunció,0-2 años
+EMP-0347,43,TI,Analista,19,3512.0,0,2,4.4,31,0,Se quedó,11+ años
+EMP-0348,50,Ventas,Analista,11,1500.0,0,3,3.9,32,0,Se quedó,11+ años
+EMP-0349,24,TI,Supervisor,0,2094.0,0,1,3.6,50,0,Se quedó,
+EMP-0350,33,Finanzas,Gerente,7,1610.0,0,4,3.2,20,0,Se quedó,6-10 años
+EMP-0351,47,Ventas,Supervisor,4,3184.0,1,2,2.9,40,1,Renunció,3-5 años
+EMP-0352,37,RRHH,Supervisor,14,1644.0,1,2,4.5,35,0,Se quedó,11+ años
+EMP-0353,43,Operaciones,Analista,0,1500.0,0,2,3.4,31,1,Renunció,
+EMP-0354,50,TI,Supervisor,0,2142.0,0,1,3.5,58,1,Renunció,
+EMP-0355,35,Ventas,Analista,9,3896.0,0,1,3.6,31,0,Se quedó,6-10 años
+EMP-0356,49,Finanzas,Gerente,9,2260.0,0,3,3.3,38,0,Se quedó,6-10 años
+EMP-0357,26,Ventas,Asistente,14,2862.0,0,2,2.8,22,0,Se quedó,11+ años
+EMP-0358,51,Marketing,Analista,16,2907.0,1,1,2.4,45,0,Se quedó,11+ años
+EMP-0359,26,Finanzas,Gerente,5,1500.0,0,2,2.3,41,0,Se quedó,3-5 años
+EMP-0360,33,RRHH,Asistente,2,1703.0,1,4,4.3,9,0,Se quedó,0-2 años
+EMP-0361,37,Operaciones,Coordinador,12,2447.0,0,2,2.7,52,1,Renunció,11+ años
+EMP-0362,47,RRHH,Analista,15,1953.0,0,3,2.2,9,0,Se quedó,11+ años
+EMP-0363,47,TI,Analista,7,4826.0,0,1,4.4,15,0,Se quedó,6-10 años
+EMP-0364,42,Ventas,Coordinador,14,1500.0,1,4,2.5,13,0,Se quedó,11+ años
+EMP-0365,57,Marketing,Coordinador,16,1696.0,0,1,3.9,22,0,Se quedó,11+ años
+EMP-0366,54,Finanzas,Analista,16,2741.0,1,4,3.0,16,0,Se quedó,11+ años
+EMP-0367,51,Finanzas,Coordinador,12,1899.0,0,2,2.4,32,0,Se quedó,11+ años
+EMP-0368,44,Ventas,Supervisor,16,1500.0,1,2,3.2,2,0,Se quedó,11+ años
+EMP-0369,31,Marketing,Asistente,5,5292.0,1,3,2.0,26,0,Se quedó,3-5 años
+EMP-0370,26,Ventas,Asistente,16,1588.0,0,3,4.5,14,1,Renunció,11+ años
+EMP-0371,57,TI,Asistente,15,3054.0,1,4,3.5,59,0,Se quedó,11+ años
+EMP-0372,55,RRHH,Supervisor,13,1500.0,0,3,2.4,38,0,Se quedó,11+ años
+EMP-0373,52,Finanzas,Coordinador,12,1728.0,1,3,2.7,34,0,Se quedó,11+ años
+EMP-0374,31,TI,Gerente,5,1500.0,0,3,3.3,8,0,Se quedó,3-5 años
+EMP-0375,40,RRHH,Coordinador,2,1814.0,0,3,2.6,36,0,Se quedó,0-2 años
+EMP-0376,53,TI,Analista,13,1886.0,1,2,2.8,21,0,Se quedó,11+ años
+EMP-0377,22,Marketing,Asistente,13,2315.0,1,3,3.6,56,0,Se quedó,11+ años
+EMP-0378,26,Finanzas,Coordinador,14,2103.0,0,2,4.5,46,1,Renunció,11+ años
+EMP-0379,25,Ventas,Gerente,7,1500.0,1,2,3.2,43,0,Se quedó,6-10 años
+EMP-0380,37,Ventas,Analista,14,1979.0,0,1,4.2,56,1,Renunció,11+ años
+EMP-0381,45,RRHH,Supervisor,12,4354.0,0,2,4.6,28,0,Se quedó,11+ años
+EMP-0382,37,Operaciones,Supervisor,16,4152.0,1,2,2.6,46,0,Se quedó,11+ años
+EMP-0383,23,Marketing,Gerente,2,2929.0,0,3,4.4,44,0,Se quedó,0-2 años
+EMP-0384,49,RRHH,Analista,5,3182.0,0,2,4.3,48,0,Se quedó,3-5 años
+EMP-0385,53,Operaciones,Asistente,4,5565.0,1,4,3.1,6,0,Se quedó,3-5 años
+EMP-0386,48,TI,Coordinador,16,3067.0,0,3,5.0,20,1,Renunció,11+ años
+EMP-0387,41,Marketing,Analista,1,3158.0,1,3,2.8,31,0,Se quedó,0-2 años
+EMP-0388,45,TI,Supervisor,14,1500.0,0,3,2.8,33,1,Renunció,11+ años
+EMP-0389,33,Finanzas,Gerente,4,1564.0,0,1,4.3,44,0,Se quedó,3-5 años
+EMP-0390,56,Marketing,Gerente,19,2409.0,0,3,3.3,7,0,Se quedó,11+ años
+EMP-0391,54,Operaciones,Coordinador,5,1767.0,1,2,3.0,8,1,Renunció,3-5 años
+EMP-0392,54,Finanzas,Gerente,5,1637.0,1,4,2.5,9,1,Renunció,3-5 años
+EMP-0393,33,Ventas,Gerente,17,1715.0,0,3,4.3,2,0,Se quedó,11+ años
+EMP-0394,24,Operaciones,Analista,17,1500.0,0,3,4.4,17,0,Se quedó,11+ años
+EMP-0395,22,RRHH,Asistente,3,1778.0,1,4,3.7,52,1,Renunció,3-5 años
+EMP-0396,54,Ventas,Coordinador,16,2796.0,0,3,4.9,45,0,Se quedó,11+ años
+EMP-0397,31,Ventas,Analista,13,5007.0,1,1,3.0,37,0,Se quedó,11+ años
+EMP-0398,50,RRHH,Asistente,13,3357.0,0,2,2.7,42,0,Se quedó,11+ años
+EMP-0399,34,Marketing,Analista,12,3148.0,1,4,4.0,44,0,Se quedó,11+ años
+EMP-0400,33,Ventas,Analista,6,1500.0,0,4,4.3,17,1,Renunció,6-10 años
+EMP-0401,52,Operaciones,Gerente,11,2560.0,1,1,2.7,53,1,Renunció,11+ años
+EMP-0402,23,Finanzas,Asistente,14,2376.0,1,2,2.2,38,0,Se quedó,11+ años
+EMP-0403,56,Ventas,Coordinador,18,2742.0,0,1,4.4,35,0,Se quedó,11+ años
+EMP-0404,44,Operaciones,Coordinador,10,2113.0,0,2,4.9,47,0,Se quedó,6-10 años
+EMP-0405,38,TI,Asistente,14,4745.0,1,1,3.9,39,0,Se quedó,11+ años
+EMP-0406,47,Operaciones,Gerente,11,2493.0,1,3,2.8,30,0,Se quedó,11+ años
+EMP-0407,29,Finanzas,Supervisor,2,2592.0,0,1,5.0,6,1,Renunció,0-2 años
+EMP-0408,50,Operaciones,Analista,16,1500.0,0,4,4.7,4,0,Se quedó,11+ años
+EMP-0409,47,RRHH,Gerente,2,2339.0,1,4,3.5,51,0,Se quedó,0-2 años
+EMP-0410,31,Finanzas,Asistente,18,3865.0,0,4,4.5,37,0,Se quedó,11+ años
+EMP-0411,47,Marketing,Analista,19,3048.0,1,1,4.4,35,0,Se quedó,11+ años
+EMP-0412,55,TI,Coordinador,3,1500.0,0,4,4.8,58,0,Se quedó,3-5 años
+EMP-0413,28,RRHH,Supervisor,2,2039.0,1,4,4.5,57,1,Renunció,0-2 años
+EMP-0414,25,Marketing,Coordinador,15,4879.0,1,3,3.9,9,0,Se quedó,11+ años
+EMP-0415,32,Operaciones,Asistente,11,2298.0,1,3,3.8,6,0,Se quedó,11+ años
+EMP-0416,50,Finanzas,Analista,7,2777.0,0,2,3.4,13,0,Se quedó,6-10 años
+EMP-0417,57,TI,Asistente,16,4664.0,1,2,3.9,59,1,Renunció,11+ años
+EMP-0418,46,RRHH,Analista,6,2294.0,0,2,4.4,22,1,Renunció,6-10 años
+EMP-0419,42,Marketing,Gerente,10,3349.0,0,1,4.9,28,0,Se quedó,6-10 años
+EMP-0420,57,Marketing,Supervisor,17,2877.0,0,2,3.4,30,1,Renunció,11+ años
+EMP-0421,31,TI,Gerente,0,3134.0,0,1,3.7,52,0,Se quedó,
+EMP-0422,30,Operaciones,Gerente,2,2840.0,1,1,3.3,36,0,Se quedó,0-2 años
+EMP-0423,45,TI,Asistente,3,1960.0,0,2,4.0,2,0,Se quedó,3-5 años
+EMP-0424,56,Marketing,Supervisor,12,2040.0,1,2,3.9,58,1,Renunció,11+ años
+EMP-0425,56,Ventas,Analista,5,1734.0,1,1,2.1,36,0,Se quedó,3-5 años
+EMP-0426,57,RRHH,Analista,13,1500.0,1,3,3.6,8,0,Se quedó,11+ años
+EMP-0427,39,TI,Coordinador,4,4015.0,0,4,2.3,45,0,Se quedó,3-5 años
+EMP-0428,53,Marketing,Analista,15,2450.0,0,4,2.1,42,1,Renunció,11+ años
+EMP-0429,45,Operaciones,Asistente,14,3935.0,1,4,4.4,50,0,Se quedó,11+ años
+EMP-0430,44,Marketing,Gerente,14,4565.0,0,3,2.8,9,0,Se quedó,11+ años
+EMP-0431,53,Operaciones,Gerente,3,2493.0,0,1,3.0,1,1,Renunció,3-5 años
+EMP-0432,33,TI,Gerente,7,1500.0,0,2,2.2,13,1,Renunció,6-10 años
+EMP-0433,34,Operaciones,Supervisor,15,2256.0,0,1,2.5,50,0,Se quedó,11+ años
+EMP-0434,44,Finanzas,Analista,15,1866.0,1,1,4.3,15,1,Renunció,11+ años
+EMP-0435,46,Finanzas,Asistente,3,1500.0,0,2,3.5,32,0,Se quedó,3-5 años
+EMP-0436,56,Finanzas,Supervisor,12,1997.0,0,3,4.6,34,0,Se quedó,11+ años
+EMP-0437,51,Ventas,Coordinador,12,2372.0,0,4,3.2,43,1,Renunció,11+ años
+EMP-0438,38,TI,Asistente,1,1887.0,0,4,2.8,31,0,Se quedó,0-2 años
+EMP-0439,41,Marketing,Asistente,2,1793.0,0,1,3.0,14,1,Renunció,0-2 años
+EMP-0440,46,Marketing,Asistente,7,1500.0,0,3,4.1,54,0,Se quedó,6-10 años
+EMP-0441,43,Ventas,Gerente,14,2640.0,0,4,3.7,47,1,Renunció,11+ años
+EMP-0442,34,Operaciones,Asistente,10,5155.0,1,3,4.7,14,1,Renunció,6-10 años
+EMP-0443,40,Ventas,Analista,8,4070.0,0,2,3.8,48,1,Renunció,6-10 años
+EMP-0444,57,Operaciones,Asistente,6,3170.0,0,1,3.5,55,1,Renunció,6-10 años
+EMP-0445,33,Operaciones,Gerente,12,3198.0,0,1,4.4,29,1,Renunció,11+ años
+EMP-0446,40,RRHH,Asistente,1,2314.0,0,3,4.8,47,0,Se quedó,0-2 años
+EMP-0447,33,Marketing,Coordinador,7,1500.0,1,4,3.1,19,0,Se quedó,6-10 años
+EMP-0448,30,Finanzas,Coordinador,6,2105.0,0,3,2.7,27,0,Se quedó,6-10 años
+EMP-0449,28,Operaciones,Gerente,11,1656.0,0,2,3.8,9,0,Se quedó,11+ años
+EMP-0450,49,RRHH,Analista,18,2596.0,0,4,3.5,37,0,Se quedó,11+ años
+EMP-0451,35,Marketing,Analista,6,3997.0,1,4,5.0,37,0,Se quedó,6-10 años
+EMP-0452,52,Finanzas,Supervisor,9,5374.0,0,3,3.4,43,0,Se quedó,6-10 años
+EMP-0453,40,Operaciones,Gerente,15,2505.0,1,2,2.2,28,0,Se quedó,11+ años
+EMP-0454,37,Operaciones,Asistente,2,1500.0,0,4,4.9,52,0,Se quedó,0-2 años
+EMP-0455,26,Ventas,Gerente,9,2503.0,1,1,4.5,57,1,Renunció,6-10 años
+EMP-0456,56,Ventas,Supervisor,5,2530.0,1,2,2.5,24,0,Se quedó,3-5 años
+EMP-0457,33,Marketing,Gerente,17,3202.0,0,4,4.7,28,0,Se quedó,11+ años
+EMP-0458,46,Finanzas,Gerente,17,2422.0,0,3,3.0,36,0,Se quedó,11+ años
+EMP-0459,42,Operaciones,Supervisor,4,2506.0,0,4,3.1,52,0,Se quedó,3-5 años
+EMP-0460,57,Marketing,Analista,6,1895.0,0,1,4.7,18,0,Se quedó,6-10 años
+EMP-0461,44,Marketing,Asistente,1,2154.0,0,2,3.6,25,0,Se quedó,0-2 años
+EMP-0462,37,TI,Supervisor,10,2997.0,0,4,2.4,35,0,Se quedó,6-10 años
+EMP-0463,35,Ventas,Coordinador,12,1500.0,0,1,3.1,4,0,Se quedó,11+ años
+EMP-0464,52,Finanzas,Analista,4,2150.0,0,4,4.2,14,0,Se quedó,3-5 años
+EMP-0465,26,Operaciones,Coordinador,5,3214.0,0,4,2.5,39,0,Se quedó,3-5 años
+EMP-0466,56,Marketing,Analista,13,4705.0,0,2,3.8,26,0,Se quedó,11+ años
+EMP-0467,44,Operaciones,Asistente,11,2081.0,0,3,4.1,8,0,Se quedó,11+ años
+EMP-0468,50,TI,Asistente,3,3921.0,1,3,3.0,24,1,Renunció,3-5 años
+EMP-0469,32,Finanzas,Gerente,5,4798.0,0,1,4.1,16,0,Se quedó,3-5 años
+EMP-0470,39,Marketing,Coordinador,9,2092.0,1,1,4.7,20,1,Renunció,6-10 años
+EMP-0471,33,Operaciones,Analista,17,1952.0,0,1,3.4,15,0,Se quedó,11+ años
+EMP-0472,30,Ventas,Asistente,14,2269.0,0,2,3.1,7,1,Renunció,11+ años
+EMP-0473,31,TI,Supervisor,7,2362.0,0,3,2.8,58,1,Renunció,6-10 años
+EMP-0474,38,Finanzas,Asistente,8,3776.0,0,1,3.8,17,0,Se quedó,6-10 años
+EMP-0475,28,TI,Supervisor,4,1791.0,1,1,4.6,22,0,Se quedó,3-5 años
+EMP-0476,34,Ventas,Analista,9,4515.0,1,4,3.0,22,0,Se quedó,6-10 años
+EMP-0477,30,Finanzas,Asistente,19,1772.0,0,4,3.2,54,0,Se quedó,11+ años
+EMP-0478,48,TI,Asistente,5,1500.0,1,1,3.2,12,1,Renunció,3-5 años
+EMP-0479,23,RRHH,Analista,15,3009.0,0,4,3.7,18,0,Se quedó,11+ años
+EMP-0480,26,Ventas,Asistente,2,3993.0,1,4,2.7,56,0,Se quedó,0-2 años
+EMP-0481,50,Ventas,Supervisor,9,2621.0,1,4,4.5,46,0,Se quedó,6-10 años
+EMP-0482,40,Ventas,Asistente,10,2905.0,0,2,2.9,47,0,Se quedó,6-10 años
+EMP-0483,29,RRHH,Coordinador,10,5333.0,0,1,4.1,15,0,Se quedó,6-10 años
+EMP-0484,22,RRHH,Gerente,16,4015.0,0,1,3.5,37,0,Se quedó,11+ años
+EMP-0485,43,Operaciones,Supervisor,3,2471.0,1,4,3.8,16,0,Se quedó,3-5 años
+EMP-0486,38,Marketing,Coordinador,3,2054.0,0,2,2.5,5,0,Se quedó,3-5 años
+EMP-0487,28,TI,Analista,16,3782.0,1,4,4.2,2,0,Se quedó,11+ años
+EMP-0488,46,Operaciones,Supervisor,8,3401.0,1,2,2.6,52,0,Se quedó,6-10 años
+EMP-0489,25,TI,Gerente,18,2885.0,0,1,2.3,28,1,Renunció,11+ años
+EMP-0490,57,Marketing,Gerente,4,2141.0,0,4,3.6,57,0,Se quedó,3-5 años
+EMP-0491,27,RRHH,Analista,5,2367.0,1,1,4.1,41,1,Renunció,3-5 años
+EMP-0492,52,Marketing,Analista,2,2301.0,0,2,2.2,54,1,Renunció,0-2 años
+EMP-0493,40,RRHH,Supervisor,0,2156.0,1,3,2.2,27,0,Se quedó,
+EMP-0494,48,Marketing,Asistente,19,1919.0,0,2,4.4,31,1,Renunció,11+ años
+EMP-0495,31,Operaciones,Analista,15,2714.0,0,3,4.4,41,1,Renunció,11+ años
+EMP-0496,47,Finanzas,Asistente,10,1885.0,0,1,2.7,36,1,Renunció,6-10 años
+EMP-0497,40,Operaciones,Coordinador,12,2620.0,1,1,3.8,47,0,Se quedó,11+ años
+EMP-0498,24,TI,Gerente,9,1500.0,0,4,3.3,43,0,Se quedó,6-10 años
+EMP-0499,34,Operaciones,Asistente,2,1920.0,1,3,3.9,1,1,Renunció,0-2 años
+EMP-0500,49,Ventas,Gerente,8,3787.0,0,2,4.6,50,1,Renunció,6-10 años
+EMP-0501,41,TI,Asistente,11,1702.0,1,1,2.2,29,1,Renunció,11+ años
+EMP-0502,49,Marketing,Coordinador,13,3093.0,0,3,4.3,1,0,Se quedó,11+ años
+EMP-0503,29,TI,Analista,0,1760.0,0,2,3.5,8,1,Renunció,
+EMP-0504,22,Finanzas,Coordinador,17,3329.0,1,3,3.7,57,0,Se quedó,11+ años
+EMP-0505,24,RRHH,Analista,16,2167.0,0,2,4.0,16,0,Se quedó,11+ años
+EMP-0506,34,Marketing,Analista,8,2133.0,0,2,4.8,58,1,Renunció,6-10 años
+EMP-0507,49,TI,Gerente,8,2494.0,0,2,2.2,28,0,Se quedó,6-10 años
+EMP-0508,46,Marketing,Coordinador,9,1500.0,1,2,2.1,22,1,Renunció,6-10 años
+EMP-0509,54,Marketing,Asistente,18,3601.0,1,3,2.5,18,0,Se quedó,11+ años
+EMP-0510,27,Marketing,Coordinador,14,4111.0,0,3,5.0,22,0,Se quedó,11+ años
+EMP-0511,53,RRHH,Gerente,4,2113.0,0,4,4.1,41,0,Se quedó,3-5 años
+EMP-0512,42,Operaciones,Analista,14,3010.0,1,3,3.8,12,0,Se quedó,11+ años
+EMP-0513,37,Marketing,Gerente,19,3333.0,0,3,2.1,19,0,Se quedó,11+ años
+EMP-0514,42,Ventas,Supervisor,1,2353.0,1,4,4.6,25,1,Renunció,0-2 años
+EMP-0515,32,Finanzas,Supervisor,12,1567.0,0,3,4.4,50,0,Se quedó,11+ años
+EMP-0516,57,RRHH,Asistente,15,4618.0,1,2,4.0,59,0,Se quedó,11+ años
+EMP-0517,56,TI,Gerente,14,2086.0,1,1,3.0,5,0,Se quedó,11+ años
+EMP-0518,40,RRHH,Asistente,9,1913.0,1,1,2.2,59,0,Se quedó,6-10 años
+EMP-0519,41,TI,Asistente,13,4701.0,1,4,3.7,34,1,Renunció,11+ años
+EMP-0520,39,RRHH,Supervisor,9,3115.0,0,3,4.2,39,0,Se quedó,6-10 años
+EMP-0521,35,TI,Asistente,13,2705.0,0,3,2.3,59,0,Se quedó,11+ años
+EMP-0522,36,Marketing,Supervisor,8,1655.0,0,4,3.9,10,1,Renunció,6-10 años
+EMP-0523,52,Operaciones,Analista,13,3365.0,1,1,2.9,47,1,Renunció,11+ años
+EMP-0524,22,TI,Gerente,2,7775.0,1,2,4.3,57,1,Renunció,0-2 años
+EMP-0525,24,TI,Asistente,19,3471.0,1,3,3.6,7,0,Se quedó,11+ años
+EMP-0526,37,Ventas,Supervisor,15,2976.0,0,4,2.4,37,0,Se quedó,11+ años
+EMP-0527,44,TI,Coordinador,1,3257.0,0,2,3.6,47,0,Se quedó,0-2 años
+EMP-0528,32,Ventas,Asistente,9,2140.0,0,4,3.2,52,0,Se quedó,6-10 años
+EMP-0529,33,Finanzas,Analista,2,2132.0,1,4,2.5,52,0,Se quedó,0-2 años
+EMP-0530,31,Marketing,Analista,10,2121.0,0,4,4.5,15,0,Se quedó,6-10 años
+EMP-0531,53,Ventas,Coordinador,10,1939.0,0,1,2.0,42,1,Renunció,6-10 años
+EMP-0532,37,Operaciones,Supervisor,12,2120.0,1,1,2.9,24,0,Se quedó,11+ años
+EMP-0533,29,Marketing,Asistente,6,2116.0,0,4,2.0,26,0,Se quedó,6-10 años
+EMP-0534,33,Ventas,Supervisor,16,2213.0,0,3,2.3,26,0,Se quedó,11+ años
+EMP-0535,45,Marketing,Analista,1,2188.0,0,2,2.9,46,1,Renunció,0-2 años
+EMP-0536,49,Marketing,Supervisor,11,2690.0,1,3,2.2,26,1,Renunció,11+ años
+EMP-0537,29,Marketing,Analista,9,2519.0,0,1,3.8,58,0,Se quedó,6-10 años
+EMP-0538,49,Finanzas,Supervisor,17,2610.0,1,2,2.3,10,1,Renunció,11+ años
+EMP-0539,57,Operaciones,Coordinador,10,4487.0,0,4,4.1,17,0,Se quedó,6-10 años
+EMP-0540,47,RRHH,Gerente,15,2517.0,1,3,2.2,53,1,Renunció,11+ años
+EMP-0541,29,RRHH,Coordinador,16,5910.0,0,3,2.2,14,0,Se quedó,11+ años
+EMP-0542,49,Ventas,Coordinador,18,2810.0,0,4,2.9,2,0,Se quedó,11+ años
+EMP-0543,49,Marketing,Gerente,17,2041.0,1,3,4.7,48,0,Se quedó,11+ años
+EMP-0544,57,Ventas,Gerente,2,4187.0,1,1,3.9,13,0,Se quedó,0-2 años
+EMP-0545,48,Finanzas,Asistente,15,2364.0,0,4,4.3,27,0,Se quedó,11+ años
+EMP-0546,38,Finanzas,Asistente,5,1500.0,1,3,2.4,9,1,Renunció,3-5 años
+EMP-0547,30,TI,Coordinador,11,2437.0,0,4,4.5,7,0,Se quedó,11+ años
+EMP-0548,54,Finanzas,Coordinador,10,2209.0,1,2,2.0,48,1,Renunció,6-10 años
+EMP-0549,41,TI,Analista,14,4641.0,1,4,2.6,10,1,Renunció,11+ años
+EMP-0550,34,Operaciones,Analista,14,1704.0,0,3,3.8,56,0,Se quedó,11+ años
+EMP-0551,49,Ventas,Asistente,15,2137.0,1,1,3.1,54,1,Renunció,11+ años
+EMP-0552,50,Operaciones,Asistente,9,4052.0,0,4,5.0,9,0,Se quedó,6-10 años
+EMP-0553,34,Finanzas,Analista,11,2858.0,0,4,2.1,22,0,Se quedó,11+ años
+EMP-0554,56,Operaciones,Analista,12,2279.0,1,3,5.0,23,0,Se quedó,11+ años
+EMP-0555,27,Operaciones,Supervisor,3,1803.0,1,1,3.9,7,0,Se quedó,3-5 años
+EMP-0556,39,Operaciones,Supervisor,6,2809.0,0,1,3.7,48,0,Se quedó,6-10 años
+EMP-0557,26,Finanzas,Analista,1,2412.0,0,2,2.2,9,0,Se quedó,0-2 años
+EMP-0558,46,Marketing,Supervisor,14,1795.0,0,2,2.8,27,0,Se quedó,11+ años
+EMP-0559,23,Operaciones,Gerente,7,1833.0,1,3,4.8,24,1,Renunció,6-10 años
+EMP-0560,31,TI,Asistente,6,1762.0,0,1,3.1,29,1,Renunció,6-10 años
+EMP-0561,51,Finanzas,Asistente,14,1641.0,0,1,4.0,17,0,Se quedó,11+ años
+EMP-0562,26,Operaciones,Analista,13,3546.0,0,2,5.0,20,0,Se quedó,11+ años
+EMP-0563,54,Marketing,Coordinador,7,3360.0,0,2,2.8,7,0,Se quedó,6-10 años
+EMP-0564,22,Finanzas,Analista,11,3548.0,0,3,3.7,43,0,Se quedó,11+ años
+EMP-0565,39,RRHH,Supervisor,12,2445.0,0,1,4.1,40,1,Renunció,11+ años
+EMP-0566,53,Marketing,Coordinador,10,2215.0,0,4,2.5,7,1,Renunció,6-10 años
+EMP-0567,32,TI,Supervisor,16,2231.0,0,2,2.4,28,1,Renunció,11+ años
+EMP-0568,42,Operaciones,Gerente,16,3672.0,1,3,3.4,19,0,Se quedó,11+ años
+EMP-0569,47,RRHH,Supervisor,3,1500.0,0,1,3.2,20,1,Renunció,3-5 años
+EMP-0570,46,RRHH,Gerente,7,1987.0,1,1,4.1,44,1,Renunció,6-10 años
+EMP-0571,43,Finanzas,Gerente,4,1711.0,1,2,2.2,39,0,Se quedó,3-5 años
+EMP-0572,48,RRHH,Supervisor,15,4205.0,1,3,4.9,40,0,Se quedó,11+ años
+EMP-0573,34,TI,Supervisor,3,2016.0,1,4,2.0,7,1,Renunció,3-5 años
+EMP-0574,54,TI,Gerente,14,1500.0,0,2,3.8,6,1,Renunció,11+ años
+EMP-0575,55,Ventas,Coordinador,11,2669.0,0,3,3.7,25,0,Se quedó,11+ años
+EMP-0576,56,TI,Gerente,4,2105.0,0,1,2.4,41,0,Se quedó,3-5 años
+EMP-0577,22,Marketing,Asistente,15,1953.0,0,4,2.5,59,0,Se quedó,11+ años
+EMP-0578,42,RRHH,Gerente,13,1874.0,1,3,4.4,13,0,Se quedó,11+ años
+EMP-0579,27,TI,Coordinador,9,1845.0,1,4,4.7,39,0,Se quedó,6-10 años
+EMP-0580,49,Finanzas,Asistente,6,3240.0,1,3,2.8,40,0,Se quedó,6-10 años
+EMP-0581,38,Ventas,Analista,12,2669.0,0,3,3.3,22,1,Renunció,11+ años
+EMP-0582,26,RRHH,Analista,19,2255.0,1,3,3.1,49,0,Se quedó,11+ años
+EMP-0583,52,Ventas,Coordinador,4,1573.0,0,3,2.2,17,0,Se quedó,3-5 años
+EMP-0584,26,RRHH,Gerente,2,2281.0,0,4,4.0,48,0,Se quedó,0-2 años
+EMP-0585,24,Finanzas,Supervisor,14,2709.0,0,2,4.5,22,0,Se quedó,11+ años
+EMP-0586,44,Ventas,Coordinador,3,2750.0,1,4,2.9,34,1,Renunció,3-5 años
+EMP-0587,31,Operaciones,Asistente,14,2603.0,0,3,5.0,8,1,Renunció,11+ años
+EMP-0588,31,Marketing,Asistente,13,1687.0,1,4,2.2,49,1,Renunció,11+ años
+EMP-0589,40,Marketing,Analista,19,1500.0,1,4,4.0,45,1,Renunció,11+ años
+EMP-0590,38,RRHH,Asistente,18,5013.0,1,4,3.3,18,1,Renunció,11+ años
+EMP-0591,42,Operaciones,Coordinador,12,1500.0,0,3,3.3,24,1,Renunció,11+ años
+EMP-0592,35,Ventas,Asistente,9,1500.0,1,4,3.4,54,1,Renunció,6-10 años
+EMP-0593,30,Operaciones,Coordinador,4,2571.0,1,1,2.8,42,1,Renunció,3-5 años
+EMP-0594,22,Operaciones,Supervisor,19,1500.0,0,3,4.1,2,0,Se quedó,11+ años
+EMP-0595,34,Ventas,Analista,19,1769.0,0,4,4.2,2,0,Se quedó,11+ años
+EMP-0596,25,Finanzas,Asistente,5,3040.0,0,1,2.8,27,1,Renunció,3-5 años
+EMP-0597,22,Operaciones,Coordinador,3,4960.0,0,4,4.5,14,0,Se quedó,3-5 años
+EMP-0598,53,Operaciones,Gerente,1,2850.0,0,2,3.0,48,0,Se quedó,0-2 años
+EMP-0599,55,Finanzas,Analista,15,2047.0,1,4,4.2,39,0,Se quedó,11+ años
+EMP-0600,49,Operaciones,Supervisor,17,2391.0,0,4,2.4,53,0,Se quedó,11+ años
+EMP-0601,52,Operaciones,Coordinador,4,1500.0,0,2,2.5,53,0,Se quedó,3-5 años
+EMP-0602,29,Operaciones,Supervisor,3,2038.0,1,3,2.9,56,0,Se quedó,3-5 años
+EMP-0603,47,Marketing,Supervisor,12,2039.0,0,2,3.8,12,0,Se quedó,11+ años
+EMP-0604,55,TI,Asistente,18,2595.0,1,3,3.9,32,0,Se quedó,11+ años
+EMP-0605,24,Finanzas,Asistente,1,5307.0,0,2,3.2,28,0,Se quedó,0-2 años
+EMP-0606,33,Operaciones,Coordinador,12,1500.0,0,4,2.2,55,0,Se quedó,11+ años
+EMP-0607,22,Marketing,Gerente,10,2073.0,0,4,3.1,28,0,Se quedó,6-10 años
+EMP-0608,26,Finanzas,Coordinador,3,1500.0,0,3,4.1,46,0,Se quedó,3-5 años
+EMP-0609,51,RRHH,Gerente,19,1996.0,0,3,4.0,25,0,Se quedó,11+ años
+EMP-0610,51,RRHH,Supervisor,19,1727.0,1,1,2.5,4,0,Se quedó,11+ años
+EMP-0611,38,Operaciones,Analista,14,1500.0,0,1,2.0,26,1,Renunció,11+ años
+EMP-0612,44,Marketing,Coordinador,3,3517.0,1,4,4.3,36,0,Se quedó,3-5 años
+EMP-0613,36,Marketing,Coordinador,8,2703.0,0,4,2.3,50,1,Renunció,6-10 años
+EMP-0614,42,Finanzas,Gerente,6,3355.0,0,1,2.2,3,0,Se quedó,6-10 años
+EMP-0615,35,Finanzas,Supervisor,18,1973.0,1,1,2.0,1,0,Se quedó,11+ años
+EMP-0616,23,Marketing,Supervisor,18,2373.0,0,3,3.3,17,0,Se quedó,11+ años
+EMP-0617,32,Finanzas,Gerente,5,4619.0,1,2,3.5,7,0,Se quedó,3-5 años
+EMP-0618,55,Marketing,Supervisor,5,2438.0,1,3,3.9,48,1,Renunció,3-5 años
+EMP-0619,55,TI,Asistente,19,3372.0,1,1,2.9,5,0,Se quedó,11+ años
+EMP-0620,39,Marketing,Analista,14,1906.0,0,4,4.1,19,1,Renunció,11+ años
+EMP-0621,51,RRHH,Coordinador,14,3250.0,0,1,2.5,39,0,Se quedó,11+ años
+EMP-0622,36,Finanzas,Analista,19,1959.0,1,4,4.5,46,1,Renunció,11+ años
+EMP-0623,48,Marketing,Coordinador,8,1500.0,1,4,3.7,34,0,Se quedó,6-10 años
+EMP-0624,55,Marketing,Asistente,3,2433.0,0,4,3.8,35,0,Se quedó,3-5 años
+EMP-0625,54,Finanzas,Supervisor,17,2022.0,0,4,2.6,49,1,Renunció,11+ años
+EMP-0626,45,TI,Gerente,17,1500.0,0,2,2.2,16,0,Se quedó,11+ años
+EMP-0627,36,TI,Asistente,4,2635.0,0,1,3.4,40,1,Renunció,3-5 años
+EMP-0628,51,Finanzas,Analista,19,1707.0,0,3,3.8,50,1,Renunció,11+ años
+EMP-0629,38,Ventas,Gerente,10,8409.0,0,4,2.3,47,1,Renunció,6-10 años
+EMP-0630,26,Finanzas,Supervisor,4,1500.0,1,4,4.9,39,0,Se quedó,3-5 años
+EMP-0631,50,Finanzas,Asistente,3,1502.0,1,3,4.9,27,0,Se quedó,3-5 años
+EMP-0632,25,TI,Gerente,11,3456.0,1,3,3.6,41,1,Renunció,11+ años
+EMP-0633,31,TI,Asistente,1,2314.0,0,4,4.9,38,1,Renunció,0-2 años
+EMP-0634,38,Finanzas,Asistente,12,3428.0,0,3,2.5,50,0,Se quedó,11+ años
+EMP-0635,31,Finanzas,Supervisor,9,2842.0,1,3,2.1,50,0,Se quedó,6-10 años
+EMP-0636,38,Finanzas,Coordinador,8,1933.0,1,2,2.1,25,0,Se quedó,6-10 años
+EMP-0637,41,TI,Gerente,9,1500.0,1,3,3.8,26,1,Renunció,6-10 años
+EMP-0638,45,Finanzas,Supervisor,6,3746.0,1,1,2.2,56,0,Se quedó,6-10 años
+EMP-0639,26,Finanzas,Asistente,3,1500.0,0,1,4.9,14,1,Renunció,3-5 años
+EMP-0640,55,Operaciones,Supervisor,18,3052.0,1,1,2.4,14,0,Se quedó,11+ años
+EMP-0641,27,Ventas,Coordinador,9,3525.0,0,4,2.9,14,0,Se quedó,6-10 años
+EMP-0642,23,RRHH,Gerente,2,2320.0,0,1,4.5,25,0,Se quedó,0-2 años
+EMP-0643,34,Ventas,Coordinador,18,2161.0,1,2,2.7,36,0,Se quedó,11+ años
+EMP-0644,32,Operaciones,Analista,1,1647.0,0,1,2.7,4,0,Se quedó,0-2 años
+EMP-0645,44,RRHH,Gerente,19,2937.0,0,4,3.9,47,0,Se quedó,11+ años
+EMP-0646,37,Finanzas,Coordinador,9,1500.0,0,2,2.8,15,1,Renunció,6-10 años
+EMP-0647,52,Operaciones,Asistente,1,3250.0,0,1,2.7,32,0,Se quedó,0-2 años
+EMP-0648,32,Finanzas,Gerente,1,2560.0,1,2,2.8,18,1,Renunció,0-2 años
+EMP-0649,37,TI,Gerente,16,2232.0,0,2,3.5,14,1,Renunció,11+ años
+EMP-0650,29,Marketing,Supervisor,15,2689.0,0,4,4.9,58,0,Se quedó,11+ años
+EMP-0651,25,Operaciones,Asistente,15,1500.0,0,4,4.5,1,0,Se quedó,11+ años
+EMP-0652,25,TI,Analista,13,1500.0,0,2,2.9,42,0,Se quedó,11+ años
+EMP-0653,46,Operaciones,Coordinador,6,2944.0,0,1,3.1,20,0,Se quedó,6-10 años
+EMP-0654,24,Operaciones,Supervisor,10,4132.0,1,4,3.4,10,0,Se quedó,6-10 años
+EMP-0655,53,TI,Coordinador,0,1500.0,0,2,4.9,10,1,Renunció,
+EMP-0656,24,RRHH,Analista,10,1602.0,1,3,2.5,59,0,Se quedó,6-10 años
+EMP-0657,48,Ventas,Analista,3,3298.0,1,3,3.1,24,0,Se quedó,3-5 años
+EMP-0658,50,Finanzas,Gerente,6,2817.0,1,4,4.2,34,1,Renunció,6-10 años
+EMP-0659,53,Operaciones,Analista,14,7984.0,0,1,4.9,28,1,Renunció,11+ años
+EMP-0660,40,Finanzas,Coordinador,17,3753.0,0,3,2.5,27,1,Renunció,11+ años
+EMP-0661,42,Marketing,Asistente,11,3409.0,1,3,2.7,40,0,Se quedó,11+ años
+EMP-0662,26,TI,Asistente,16,1798.0,0,3,2.7,1,0,Se quedó,11+ años
+EMP-0663,39,Finanzas,Gerente,0,3011.0,1,1,2.1,33,0,Se quedó,
+EMP-0664,49,TI,Coordinador,10,4439.0,1,1,3.8,4,0,Se quedó,6-10 años
+EMP-0665,43,Finanzas,Coordinador,0,2285.0,1,4,4.0,7,1,Renunció,
+EMP-0666,42,Ventas,Analista,14,2329.0,1,4,3.8,9,0,Se quedó,11+ años
+EMP-0667,27,Ventas,Coordinador,9,2583.0,0,3,2.2,16,0,Se quedó,6-10 años
+EMP-0668,22,Ventas,Supervisor,6,1871.0,0,1,2.2,5,1,Renunció,6-10 años
+EMP-0669,26,Ventas,Analista,1,2718.0,1,2,2.6,34,0,Se quedó,0-2 años
+EMP-0670,33,Ventas,Supervisor,9,2691.0,0,3,2.9,23,0,Se quedó,6-10 años
+EMP-0671,47,Ventas,Gerente,3,4412.0,0,4,4.4,43,0,Se quedó,3-5 años
+EMP-0672,55,TI,Asistente,11,2263.0,1,1,2.5,50,0,Se quedó,11+ años
+EMP-0673,35,Operaciones,Gerente,18,3197.0,0,4,2.1,25,0,Se quedó,11+ años
+EMP-0674,47,Finanzas,Asistente,10,2290.0,1,4,3.2,57,0,Se quedó,6-10 años
+EMP-0675,48,Ventas,Gerente,7,3152.0,1,1,3.2,51,1,Renunció,6-10 años
+EMP-0676,30,TI,Coordinador,17,2208.0,0,3,3.4,13,0,Se quedó,11+ años
+EMP-0677,47,TI,Supervisor,10,3070.0,1,1,4.5,24,0,Se quedó,6-10 años
+EMP-0678,43,TI,Asistente,10,3266.0,1,3,2.3,11,0,Se quedó,6-10 años
+EMP-0679,51,Operaciones,Analista,12,1593.0,1,4,4.1,52,0,Se quedó,11+ años
+EMP-0680,38,Finanzas,Supervisor,2,3793.0,0,1,3.0,51,0,Se quedó,0-2 años
+EMP-0681,47,Operaciones,Analista,11,2283.0,0,2,2.9,17,1,Renunció,11+ años
+EMP-0682,57,RRHH,Supervisor,2,2022.0,1,3,4.8,37,0,Se quedó,0-2 años
+EMP-0683,22,TI,Supervisor,9,1837.0,0,2,2.7,13,0,Se quedó,6-10 años
+EMP-0684,29,RRHH,Gerente,16,2750.0,0,3,3.9,27,0,Se quedó,11+ años
+EMP-0685,56,Marketing,Asistente,1,2436.0,1,1,2.8,20,1,Renunció,0-2 años
+EMP-0686,36,Ventas,Asistente,16,2831.0,0,2,3.5,33,1,Renunció,11+ años
+EMP-0687,43,Ventas,Supervisor,15,2853.0,0,1,4.4,42,1,Renunció,11+ años
+EMP-0688,35,Operaciones,Coordinador,1,3113.0,0,3,4.6,32,0,Se quedó,0-2 años
+EMP-0689,47,Finanzas,Coordinador,19,7409.0,0,3,4.5,8,0,Se quedó,11+ años
+EMP-0690,49,RRHH,Analista,5,2480.0,1,3,3.7,56,0,Se quedó,3-5 años
+EMP-0691,44,Finanzas,Analista,9,1819.0,0,3,2.7,29,0,Se quedó,6-10 años
+EMP-0692,35,Operaciones,Gerente,9,1500.0,0,4,4.0,40,0,Se quedó,6-10 años
+EMP-0693,45,Ventas,Supervisor,7,1513.0,1,3,4.1,19,0,Se quedó,6-10 años
+EMP-0694,23,Finanzas,Analista,0,4000.0,1,2,2.0,6,0,Se quedó,
+EMP-0695,47,Finanzas,Analista,12,3255.0,1,3,3.3,44,0,Se quedó,11+ años
+EMP-0696,35,Ventas,Supervisor,8,1500.0,0,1,4.5,39,0,Se quedó,6-10 años
+EMP-0697,28,RRHH,Gerente,9,6540.0,0,4,3.5,48,0,Se quedó,6-10 años
+EMP-0698,24,Ventas,Analista,14,2781.0,1,2,2.9,41,0,Se quedó,11+ años
+EMP-0699,44,Finanzas,Gerente,4,2934.0,0,4,4.6,21,0,Se quedó,3-5 años
+EMP-0700,39,RRHH,Asistente,15,5989.0,1,4,2.5,57,0,Se quedó,11+ años
+EMP-0701,56,RRHH,Gerente,12,4894.0,0,4,2.6,22,0,Se quedó,11+ años
+EMP-0702,36,Ventas,Coordinador,19,3336.0,0,1,4.1,42,1,Renunció,11+ años
+EMP-0703,46,Finanzas,Coordinador,17,3401.0,1,4,3.1,10,1,Renunció,11+ años
+EMP-0704,49,Operaciones,Gerente,10,3530.0,1,4,4.1,10,0,Se quedó,6-10 años
+EMP-0705,31,Finanzas,Coordinador,8,2216.0,1,3,2.5,52,1,Renunció,6-10 años
+EMP-0706,38,TI,Asistente,15,2737.0,0,1,2.8,29,1,Renunció,11+ años
+EMP-0707,43,Marketing,Supervisor,1,3071.0,0,2,2.5,16,1,Renunció,0-2 años
+EMP-0708,47,Operaciones,Coordinador,1,2320.0,0,2,4.9,1,0,Se quedó,0-2 años
+EMP-0709,46,RRHH,Coordinador,11,1659.0,0,2,3.2,17,1,Renunció,11+ años
+EMP-0710,38,Operaciones,Gerente,7,2194.0,0,1,3.0,30,0,Se quedó,6-10 años
+EMP-0711,34,RRHH,Asistente,8,1644.0,0,2,2.0,26,1,Renunció,6-10 años
+EMP-0712,41,RRHH,Supervisor,11,2504.0,0,1,2.5,53,1,Renunció,11+ años
+EMP-0713,46,Operaciones,Gerente,8,1500.0,1,3,3.3,46,0,Se quedó,6-10 años
+EMP-0714,25,RRHH,Gerente,9,2797.0,1,3,2.2,19,0,Se quedó,6-10 años
+EMP-0715,31,RRHH,Asistente,1,1500.0,1,1,3.5,53,1,Renunció,0-2 años
+EMP-0716,24,TI,Supervisor,15,2077.0,0,2,3.4,21,1,Renunció,11+ años
+EMP-0717,39,Finanzas,Asistente,19,2986.0,1,1,4.3,17,0,Se quedó,11+ años
+EMP-0718,57,Finanzas,Supervisor,6,3349.0,0,1,4.0,46,0,Se quedó,6-10 años
+EMP-0719,43,Marketing,Asistente,1,3194.0,0,4,3.3,40,1,Renunció,0-2 años
+EMP-0720,55,Marketing,Gerente,0,2774.0,1,1,2.7,21,1,Renunció,
+EMP-0721,29,TI,Gerente,18,1560.0,0,4,4.2,53,0,Se quedó,11+ años
+EMP-0722,40,Marketing,Analista,3,3613.0,0,3,4.1,41,0,Se quedó,3-5 años
+EMP-0723,27,Operaciones,Coordinador,1,1574.0,0,4,2.5,40,0,Se quedó,0-2 años
+EMP-0724,47,Ventas,Asistente,13,3781.0,0,1,4.7,45,0,Se quedó,11+ años
+EMP-0725,55,Ventas,Analista,1,3137.0,1,3,2.2,49,0,Se quedó,0-2 años
+EMP-0726,27,Ventas,Coordinador,14,4203.0,1,4,2.2,19,0,Se quedó,11+ años
+EMP-0727,54,TI,Asistente,11,2465.0,1,1,2.6,7,1,Renunció,11+ años
+EMP-0728,43,TI,Supervisor,4,1759.0,0,3,4.7,17,0,Se quedó,3-5 años
+EMP-0729,42,RRHH,Coordinador,19,1500.0,1,4,3.6,1,1,Renunció,11+ años
+EMP-0730,27,Ventas,Gerente,6,1521.0,0,1,4.4,37,0,Se quedó,6-10 años
+EMP-0731,27,Operaciones,Analista,9,1500.0,0,1,2.7,57,0,Se quedó,6-10 años
+EMP-0732,25,Marketing,Coordinador,13,3557.0,1,2,3.5,6,1,Renunció,11+ años
+EMP-0733,51,Operaciones,Coordinador,13,3740.0,0,2,3.1,26,0,Se quedó,11+ años
+EMP-0734,32,Marketing,Gerente,4,3046.0,1,4,4.5,2,0,Se quedó,3-5 años
+EMP-0735,51,Ventas,Asistente,17,2409.0,0,4,2.1,59,0,Se quedó,11+ años
+EMP-0736,52,Ventas,Supervisor,13,5566.0,1,4,2.7,32,0,Se quedó,11+ años
+EMP-0737,45,Ventas,Gerente,1,2347.0,1,1,2.5,57,0,Se quedó,0-2 años
+EMP-0738,30,TI,Supervisor,11,2666.0,0,4,4.6,48,1,Renunció,11+ años
+EMP-0739,24,Marketing,Asistente,5,2394.0,0,1,3.4,54,0,Se quedó,3-5 años
+EMP-0740,52,TI,Coordinador,3,2132.0,1,4,3.2,5,0,Se quedó,3-5 años
+EMP-0741,57,TI,Supervisor,12,3141.0,0,1,3.3,37,1,Renunció,11+ años
+EMP-0742,45,Finanzas,Analista,3,1894.0,0,1,4.9,31,1,Renunció,3-5 años
+EMP-0743,52,Operaciones,Analista,13,1844.0,1,2,4.6,12,0,Se quedó,11+ años
+EMP-0744,27,Operaciones,Gerente,15,3205.0,0,3,4.1,35,0,Se quedó,11+ años
+EMP-0745,23,RRHH,Asistente,3,2000.0,1,1,2.9,30,0,Se quedó,3-5 años
+EMP-0746,41,TI,Gerente,0,2574.0,0,4,2.5,48,1,Renunció,
+EMP-0747,49,Marketing,Gerente,12,2129.0,0,2,4.8,6,1,Renunció,11+ años
+EMP-0748,32,Finanzas,Gerente,3,2429.0,1,4,3.3,15,0,Se quedó,3-5 años
+EMP-0749,25,Finanzas,Analista,19,1864.0,0,4,2.8,15,0,Se quedó,11+ años
+EMP-0750,36,Operaciones,Analista,17,1889.0,0,1,3.4,16,0,Se quedó,11+ años
+EMP-0751,27,TI,Gerente,5,1758.0,0,1,4.8,20,0,Se quedó,3-5 años
+EMP-0752,51,RRHH,Analista,2,3420.0,0,3,3.2,13,0,Se quedó,0-2 años
+EMP-0753,23,TI,Asistente,12,2614.0,0,1,3.7,44,1,Renunció,11+ años
+EMP-0754,36,Ventas,Gerente,15,3524.0,0,1,4.4,42,0,Se quedó,11+ años
+EMP-0755,32,TI,Analista,4,3678.0,0,3,3.3,46,0,Se quedó,3-5 años
+EMP-0756,29,Ventas,Supervisor,3,2030.0,0,4,2.7,31,0,Se quedó,3-5 años
+EMP-0757,47,Ventas,Gerente,7,3473.0,1,3,5.0,34,0,Se quedó,6-10 años
+EMP-0758,26,RRHH,Gerente,18,2427.0,1,3,4.9,29,1,Renunció,11+ años
+EMP-0759,27,Marketing,Asistente,13,2291.0,0,3,4.5,3,0,Se quedó,11+ años
+EMP-0760,47,Operaciones,Coordinador,6,4028.0,1,2,4.1,9,1,Renunció,6-10 años
+EMP-0761,25,TI,Coordinador,13,3046.0,1,4,2.9,11,1,Renunció,11+ años
+EMP-0762,40,Ventas,Asistente,5,2120.0,0,2,4.7,11,1,Renunció,3-5 años
+EMP-0763,41,TI,Asistente,11,2968.0,1,2,2.8,25,0,Se quedó,11+ años
+EMP-0764,54,Marketing,Asistente,15,1500.0,0,1,4.4,22,0,Se quedó,11+ años
+EMP-0765,41,Operaciones,Coordinador,16,2694.0,1,3,4.8,42,0,Se quedó,11+ años
+EMP-0766,33,Marketing,Asistente,12,1500.0,0,3,3.8,58,0,Se quedó,11+ años
+EMP-0767,22,Operaciones,Analista,13,1646.0,0,2,4.4,46,1,Renunció,11+ años
+EMP-0768,47,Finanzas,Gerente,6,3084.0,1,1,4.4,9,0,Se quedó,6-10 años
+EMP-0769,35,Operaciones,Gerente,13,1500.0,0,1,2.6,20,0,Se quedó,11+ años
+EMP-0770,32,RRHH,Supervisor,14,5019.0,0,1,4.0,59,0,Se quedó,11+ años
+EMP-0771,57,Marketing,Supervisor,11,3408.0,0,4,2.3,21,0,Se quedó,11+ años
+EMP-0772,34,Ventas,Gerente,16,1500.0,0,2,3.5,10,1,Renunció,11+ años
+EMP-0773,24,Finanzas,Analista,8,6370.0,1,4,2.5,22,0,Se quedó,6-10 años
+EMP-0774,54,RRHH,Coordinador,14,7113.0,1,1,3.2,29,0,Se quedó,11+ años
+EMP-0775,27,TI,Coordinador,11,2271.0,0,1,4.5,9,0,Se quedó,11+ años
+EMP-0776,31,Marketing,Analista,1,1685.0,0,1,5.0,5,0,Se quedó,0-2 años
+EMP-0777,26,Ventas,Coordinador,4,4791.0,1,3,3.0,40,0,Se quedó,3-5 años
+EMP-0778,44,Operaciones,Asistente,12,2127.0,0,2,3.6,11,0,Se quedó,11+ años
+EMP-0779,31,Ventas,Gerente,19,2603.0,1,3,3.5,1,0,Se quedó,11+ años
+EMP-0780,23,TI,Gerente,7,3972.0,0,4,4.9,53,0,Se quedó,6-10 años
+EMP-0781,34,Finanzas,Analista,13,2295.0,0,3,3.4,42,0,Se quedó,11+ años
+EMP-0782,23,Finanzas,Coordinador,14,2216.0,0,2,4.1,1,1,Renunció,11+ años
+EMP-0783,41,Marketing,Supervisor,10,1500.0,0,3,4.8,58,1,Renunció,6-10 años
+EMP-0784,22,Finanzas,Supervisor,0,1897.0,0,1,3.1,54,1,Renunció,
+EMP-0785,30,Marketing,Coordinador,2,2199.0,0,4,4.7,39,0,Se quedó,0-2 años
+EMP-0786,38,Marketing,Supervisor,16,1500.0,0,4,4.8,46,0,Se quedó,11+ años
+EMP-0787,30,Marketing,Analista,18,1542.0,0,1,4.8,5,1,Renunció,11+ años
+EMP-0788,32,Operaciones,Analista,13,2474.0,0,1,2.8,49,1,Renunció,11+ años
+EMP-0789,36,RRHH,Coordinador,7,1500.0,0,1,3.2,22,0,Se quedó,6-10 años
+EMP-0790,45,Marketing,Supervisor,12,1717.0,0,2,4.6,26,1,Renunció,11+ años
+EMP-0791,56,Marketing,Analista,19,5313.0,0,3,3.1,53,0,Se quedó,11+ años
+EMP-0792,51,RRHH,Analista,2,2126.0,0,4,3.8,6,0,Se quedó,0-2 años
+EMP-0793,52,Ventas,Asistente,4,2022.0,1,3,2.4,32,0,Se quedó,3-5 años
+EMP-0794,26,Marketing,Asistente,8,2122.0,1,1,2.2,48,1,Renunció,6-10 años
+EMP-0795,35,Operaciones,Analista,5,2135.0,0,1,3.2,11,0,Se quedó,3-5 años
+EMP-0796,32,Finanzas,Coordinador,1,3072.0,0,3,3.7,10,0,Se quedó,0-2 años
+EMP-0797,30,Finanzas,Gerente,12,2987.0,0,4,3.2,47,0,Se quedó,11+ años
+EMP-0798,55,TI,Gerente,4,2087.0,1,2,3.7,39,1,Renunció,3-5 años
+EMP-0799,33,TI,Analista,7,2241.0,0,3,3.5,55,1,Renunció,6-10 años
+EMP-0800,56,Finanzas,Analista,0,4126.0,0,1,4.1,34,1,Renunció,
+EMP-0801,56,Finanzas,Analista,19,1500.0,1,1,3.9,31,1,Renunció,11+ años
+EMP-0802,22,Operaciones,Coordinador,11,2385.0,0,2,3.3,12,0,Se quedó,11+ años
+EMP-0803,43,RRHH,Asistente,10,2576.0,0,3,3.3,51,1,Renunció,6-10 años
+EMP-0804,50,TI,Analista,6,1789.0,0,2,2.4,44,1,Renunció,6-10 años
+EMP-0805,29,RRHH,Analista,14,2331.0,1,2,3.5,16,0,Se quedó,11+ años
+EMP-0806,32,Operaciones,Supervisor,10,1695.0,0,4,3.8,38,0,Se quedó,6-10 años
+EMP-0807,35,Finanzas,Coordinador,15,3149.0,1,4,3.4,3,0,Se quedó,11+ años
+EMP-0808,51,Marketing,Analista,2,1500.0,1,1,3.0,2,0,Se quedó,0-2 años
+EMP-0809,56,RRHH,Supervisor,19,3733.0,0,3,4.2,52,0,Se quedó,11+ años
+EMP-0810,42,Finanzas,Gerente,13,2370.0,0,4,2.2,5,1,Renunció,11+ años
+EMP-0811,26,Finanzas,Analista,2,2040.0,0,1,4.7,11,1,Renunció,0-2 años
+EMP-0812,40,Ventas,Analista,0,1633.0,1,3,2.1,58,0,Se quedó,
+EMP-0813,35,RRHH,Supervisor,14,3686.0,1,1,4.9,25,1,Renunció,11+ años
+EMP-0814,47,Marketing,Coordinador,0,1880.0,0,4,3.4,35,0,Se quedó,
+EMP-0815,25,RRHH,Analista,16,1530.0,1,1,3.2,35,1,Renunció,11+ años
+EMP-0816,46,Finanzas,Gerente,1,3717.0,0,3,2.8,22,0,Se quedó,0-2 años
+EMP-0817,46,Marketing,Analista,19,1700.0,0,3,2.0,37,0,Se quedó,11+ años
+EMP-0818,39,Operaciones,Gerente,5,2350.0,1,1,2.8,22,0,Se quedó,3-5 años
+EMP-0819,29,Ventas,Asistente,7,3386.0,1,3,2.3,55,0,Se quedó,6-10 años
+EMP-0820,35,Finanzas,Asistente,15,2600.0,0,1,4.0,11,0,Se quedó,11+ años
+EMP-0821,53,TI,Gerente,18,4877.0,1,3,3.0,32,1,Renunció,11+ años
+EMP-0822,54,TI,Coordinador,0,1748.0,1,1,4.3,35,1,Renunció,
+EMP-0823,44,Ventas,Analista,2,2244.0,1,1,2.6,31,0,Se quedó,0-2 años
+EMP-0824,36,Operaciones,Analista,2,2314.0,1,1,4.7,45,1,Renunció,0-2 años
+EMP-0825,54,Finanzas,Asistente,4,3129.0,1,2,3.6,53,0,Se quedó,3-5 años
+EMP-0826,46,RRHH,Gerente,11,4087.0,0,3,2.3,8,0,Se quedó,11+ años
+EMP-0827,38,Ventas,Analista,11,2514.0,1,4,3.2,20,0,Se quedó,11+ años
+EMP-0828,54,Operaciones,Analista,19,2310.0,0,1,2.6,42,1,Renunció,11+ años
+EMP-0829,23,RRHH,Coordinador,12,1500.0,1,2,2.6,34,0,Se quedó,11+ años
+EMP-0830,35,TI,Supervisor,19,2553.0,0,4,3.5,4,0,Se quedó,11+ años
+EMP-0831,27,TI,Asistente,8,1882.0,1,1,4.0,18,1,Renunció,6-10 años
+EMP-0832,27,RRHH,Asistente,6,3126.0,0,4,4.7,51,0,Se quedó,6-10 años
+EMP-0833,24,Ventas,Supervisor,3,2072.0,0,2,3.5,4,0,Se quedó,3-5 años
+EMP-0834,28,TI,Analista,18,2217.0,0,4,4.9,20,0,Se quedó,11+ años
+EMP-0835,29,Finanzas,Coordinador,18,1500.0,1,1,4.8,58,0,Se quedó,11+ años
+EMP-0836,36,Marketing,Coordinador,5,1500.0,1,4,4.6,9,1,Renunció,3-5 años
+EMP-0837,50,RRHH,Asistente,12,5138.0,0,4,3.5,16,0,Se quedó,11+ años
+EMP-0838,54,RRHH,Coordinador,10,2571.0,1,1,2.4,26,1,Renunció,6-10 años
+EMP-0839,51,TI,Supervisor,12,2869.0,1,2,2.7,38,1,Renunció,11+ años
+EMP-0840,48,Ventas,Analista,12,1694.0,1,2,3.9,25,1,Renunció,11+ años
+EMP-0841,57,Finanzas,Supervisor,19,3464.0,0,4,3.3,4,0,Se quedó,11+ años
+EMP-0842,50,Ventas,Gerente,14,3223.0,1,3,2.4,41,0,Se quedó,11+ años
+EMP-0843,54,Operaciones,Asistente,12,1771.0,0,4,3.4,59,0,Se quedó,11+ años
+EMP-0844,48,Operaciones,Coordinador,10,1598.0,1,3,2.1,45,0,Se quedó,6-10 años
+EMP-0845,54,Marketing,Gerente,18,1821.0,1,4,4.2,41,1,Renunció,11+ años
+EMP-0846,25,TI,Coordinador,7,2413.0,1,2,2.2,38,0,Se quedó,6-10 años
+EMP-0847,43,TI,Analista,19,2609.0,1,4,3.9,53,0,Se quedó,11+ años
+EMP-0848,23,TI,Analista,7,2478.0,0,4,4.4,19,0,Se quedó,6-10 años
+EMP-0849,31,Marketing,Analista,9,4103.0,0,3,2.4,14,0,Se quedó,6-10 años
+EMP-0850,26,Operaciones,Coordinador,15,1834.0,0,2,3.6,21,0,Se quedó,11+ años
+EMP-0851,31,Ventas,Gerente,18,1580.0,0,3,4.3,15,0,Se quedó,11+ años
+EMP-0852,54,Marketing,Analista,10,2441.0,0,4,2.8,3,0,Se quedó,6-10 años
+EMP-0853,34,Marketing,Gerente,12,1500.0,1,1,2.5,37,0,Se quedó,11+ años
+EMP-0854,52,Ventas,Coordinador,8,3224.0,1,4,3.0,53,0,Se quedó,6-10 años
+EMP-0855,57,TI,Gerente,19,2538.0,0,4,3.7,50,0,Se quedó,11+ años
+EMP-0856,45,Finanzas,Coordinador,18,2132.0,0,3,3.7,46,1,Renunció,11+ años
+EMP-0857,36,Ventas,Coordinador,15,2085.0,0,1,2.4,16,0,Se quedó,11+ años
+EMP-0858,50,Operaciones,Asistente,6,3512.0,0,1,3.4,14,0,Se quedó,6-10 años
+EMP-0859,29,RRHH,Coordinador,18,3468.0,0,3,2.8,9,0,Se quedó,11+ años
+EMP-0860,26,RRHH,Coordinador,11,2212.0,1,2,4.5,47,0,Se quedó,11+ años
+EMP-0861,50,Marketing,Supervisor,14,3092.0,0,1,2.9,7,0,Se quedó,11+ años
+EMP-0862,25,RRHH,Analista,13,3447.0,1,1,4.5,14,0,Se quedó,11+ años
+EMP-0863,33,Finanzas,Asistente,10,2791.0,0,3,3.3,6,0,Se quedó,6-10 años
+EMP-0864,23,TI,Asistente,9,2248.0,1,2,4.2,21,0,Se quedó,6-10 años
+EMP-0865,48,Operaciones,Asistente,10,2843.0,1,2,3.5,15,1,Renunció,6-10 años
+EMP-0866,52,Finanzas,Supervisor,5,1611.0,1,4,3.9,52,0,Se quedó,3-5 años
+EMP-0867,57,Operaciones,Coordinador,1,2511.0,1,4,3.2,8,0,Se quedó,0-2 años
+EMP-0868,57,Operaciones,Analista,10,2223.0,1,3,4.3,34,0,Se quedó,6-10 años
+EMP-0869,47,TI,Gerente,18,2088.0,1,2,3.3,40,1,Renunció,11+ años
+EMP-0870,48,Marketing,Coordinador,5,1500.0,1,3,3.4,1,1,Renunció,3-5 años
+EMP-0871,26,RRHH,Supervisor,13,1618.0,0,4,3.6,32,0,Se quedó,11+ años
+EMP-0872,41,TI,Coordinador,19,2010.0,0,3,4.5,58,0,Se quedó,11+ años
+EMP-0873,32,Finanzas,Coordinador,5,3491.0,0,3,4.0,49,0,Se quedó,3-5 años
+EMP-0874,31,Marketing,Supervisor,16,2736.0,1,1,3.0,51,0,Se quedó,11+ años
+EMP-0875,27,Finanzas,Asistente,9,3554.0,0,1,4.0,5,0,Se quedó,6-10 años
+EMP-0876,29,Marketing,Asistente,0,4012.0,1,1,3.9,30,0,Se quedó,
+EMP-0877,44,Finanzas,Analista,2,2784.0,1,4,4.8,22,0,Se quedó,0-2 años
+EMP-0878,47,TI,Analista,7,2581.0,0,3,4.5,20,1,Renunció,6-10 años
+EMP-0879,33,Marketing,Asistente,7,1654.0,0,1,3.9,16,0,Se quedó,6-10 años
+EMP-0880,47,Marketing,Gerente,19,5403.0,1,1,3.0,7,0,Se quedó,11+ años
+EMP-0881,34,Operaciones,Coordinador,14,1500.0,0,1,4.3,7,0,Se quedó,11+ años
+EMP-0882,39,Operaciones,Gerente,6,2559.0,1,4,3.7,50,0,Se quedó,6-10 años
+EMP-0883,46,Ventas,Coordinador,10,3405.0,0,4,5.0,50,0,Se quedó,6-10 años
+EMP-0884,54,Finanzas,Asistente,6,3424.0,1,3,2.7,2,0,Se quedó,6-10 años
+EMP-0885,33,Operaciones,Analista,3,1538.0,0,3,2.2,47,0,Se quedó,3-5 años
+EMP-0886,57,Ventas,Analista,11,2063.0,1,3,2.2,14,0,Se quedó,11+ años
+EMP-0887,25,Operaciones,Gerente,5,1773.0,0,1,3.9,31,0,Se quedó,3-5 años
+EMP-0888,26,Finanzas,Analista,13,1500.0,0,2,4.8,50,0,Se quedó,11+ años
+EMP-0889,29,Marketing,Asistente,11,2571.0,0,4,2.0,41,0,Se quedó,11+ años
+EMP-0890,49,RRHH,Gerente,10,1832.0,0,1,4.2,14,0,Se quedó,6-10 años
+EMP-0891,52,Finanzas,Coordinador,18,4457.0,1,1,4.0,5,0,Se quedó,11+ años
+EMP-0892,30,TI,Analista,4,3122.0,1,3,4.2,11,1,Renunció,3-5 años
+EMP-0893,50,Operaciones,Supervisor,13,2481.0,0,3,3.1,40,0,Se quedó,11+ años
+EMP-0894,35,Operaciones,Analista,15,2020.0,0,1,4.5,5,0,Se quedó,11+ años
+EMP-0895,43,Marketing,Coordinador,12,2556.0,0,4,2.1,29,0,Se quedó,11+ años
+EMP-0896,32,TI,Gerente,19,2203.0,1,4,4.3,11,1,Renunció,11+ años
+EMP-0897,44,Marketing,Coordinador,3,2509.0,1,1,2.8,5,0,Se quedó,3-5 años
+EMP-0898,22,TI,Supervisor,10,5222.0,0,2,3.4,49,1,Renunció,6-10 años
+EMP-0899,42,RRHH,Asistente,16,1594.0,1,2,4.5,54,0,Se quedó,11+ años
+EMP-0900,47,Operaciones,Analista,6,2281.0,1,4,2.8,32,0,Se quedó,6-10 años
+EMP-0901,57,Operaciones,Gerente,13,3237.0,1,3,2.6,36,0,Se quedó,11+ años
+EMP-0902,44,RRHH,Asistente,10,2080.0,1,2,4.0,15,1,Renunció,6-10 años
+EMP-0903,22,Ventas,Coordinador,8,4593.0,1,2,3.6,19,1,Renunció,6-10 años
+EMP-0904,36,Marketing,Gerente,12,3202.0,1,3,3.5,22,1,Renunció,11+ años
+EMP-0905,42,RRHH,Asistente,17,1831.0,0,2,2.8,34,1,Renunció,11+ años
+EMP-0906,30,Marketing,Gerente,10,2648.0,1,1,2.1,56,0,Se quedó,6-10 años
+EMP-0907,30,Finanzas,Supervisor,14,1841.0,0,2,3.2,17,0,Se quedó,11+ años
+EMP-0908,31,Operaciones,Supervisor,18,1775.0,0,3,2.3,12,0,Se quedó,11+ años
+EMP-0909,47,Marketing,Analista,0,2308.0,0,1,4.7,25,0,Se quedó,
+EMP-0910,56,TI,Analista,3,4046.0,1,2,2.1,56,1,Renunció,3-5 años
+EMP-0911,46,Marketing,Supervisor,13,3288.0,0,4,3.3,17,0,Se quedó,11+ años
+EMP-0912,47,Finanzas,Gerente,13,2419.0,0,1,2.2,10,1,Renunció,11+ años
+EMP-0913,32,Operaciones,Supervisor,2,3336.0,0,1,2.3,28,0,Se quedó,0-2 años
+EMP-0914,23,RRHH,Analista,16,2717.0,0,4,4.0,57,0,Se quedó,11+ años
+EMP-0915,28,Finanzas,Supervisor,2,1529.0,0,4,3.9,18,1,Renunció,0-2 años
+EMP-0916,39,Operaciones,Supervisor,15,2303.0,1,2,2.1,51,1,Renunció,11+ años
+EMP-0917,48,Marketing,Gerente,13,2370.0,1,2,2.0,18,0,Se quedó,11+ años
+EMP-0918,55,Ventas,Asistente,19,3310.0,0,3,2.2,45,0,Se quedó,11+ años
+EMP-0919,48,Ventas,Analista,12,1946.0,1,3,4.3,32,0,Se quedó,11+ años
+EMP-0920,38,TI,Gerente,14,1694.0,1,1,3.8,14,1,Renunció,11+ años
+EMP-0921,45,Operaciones,Supervisor,13,2397.0,0,4,2.1,56,1,Renunció,11+ años
+EMP-0922,46,Ventas,Supervisor,18,1885.0,1,4,3.5,16,0,Se quedó,11+ años
+EMP-0923,28,RRHH,Asistente,5,2144.0,1,3,4.1,50,0,Se quedó,3-5 años
+EMP-0924,27,Operaciones,Analista,9,2363.0,0,1,4.6,58,1,Renunció,6-10 años
+EMP-0925,45,RRHH,Analista,14,2094.0,0,1,4.8,18,0,Se quedó,11+ años
+EMP-0926,54,RRHH,Coordinador,19,3588.0,1,3,3.0,16,0,Se quedó,11+ años
+EMP-0927,50,Ventas,Analista,5,4297.0,1,3,2.4,17,0,Se quedó,3-5 años
+EMP-0928,43,Operaciones,Asistente,9,3447.0,0,3,2.7,7,0,Se quedó,6-10 años
+EMP-0929,47,Marketing,Coordinador,6,1500.0,0,2,4.3,12,1,Renunció,6-10 años
+EMP-0930,49,Finanzas,Coordinador,16,1888.0,0,1,4.9,34,1,Renunció,11+ años
+EMP-0931,42,Ventas,Supervisor,17,2272.0,1,1,3.4,10,0,Se quedó,11+ años
+EMP-0932,28,Ventas,Supervisor,16,1500.0,0,1,2.9,5,1,Renunció,11+ años
+EMP-0933,38,Marketing,Analista,8,1719.0,0,3,3.3,21,0,Se quedó,6-10 años
+EMP-0934,41,Operaciones,Coordinador,9,2261.0,1,3,2.9,3,0,Se quedó,6-10 años
+EMP-0935,41,Operaciones,Supervisor,9,2039.0,0,3,2.8,19,1,Renunció,6-10 años
+EMP-0936,43,RRHH,Asistente,6,2449.0,0,3,3.8,45,0,Se quedó,6-10 años
+EMP-0937,49,Marketing,Supervisor,15,1500.0,0,4,2.0,44,0,Se quedó,11+ años
+EMP-0938,28,Marketing,Supervisor,17,2030.0,1,3,2.8,35,0,Se quedó,11+ años
+EMP-0939,22,Operaciones,Coordinador,5,2594.0,0,2,4.0,6,0,Se quedó,3-5 años
+EMP-0940,53,RRHH,Coordinador,19,2451.0,1,4,2.1,14,0,Se quedó,11+ años
+EMP-0941,34,Ventas,Gerente,0,2918.0,0,4,2.2,4,0,Se quedó,
+EMP-0942,51,TI,Asistente,0,2851.0,0,3,2.9,45,0,Se quedó,
+EMP-0943,44,Finanzas,Coordinador,11,2074.0,0,1,4.6,51,0,Se quedó,11+ años
+EMP-0944,40,Ventas,Analista,1,2561.0,0,3,4.3,18,0,Se quedó,0-2 años
+EMP-0945,53,Operaciones,Asistente,3,1772.0,1,1,2.1,29,0,Se quedó,3-5 años
+EMP-0946,51,Finanzas,Asistente,16,2191.0,0,3,3.5,35,0,Se quedó,11+ años
+EMP-0947,50,TI,Coordinador,3,1600.0,1,3,2.8,52,0,Se quedó,3-5 años
+EMP-0948,50,TI,Asistente,10,3737.0,0,1,3.9,38,0,Se quedó,6-10 años
+EMP-0949,51,RRHH,Coordinador,3,2188.0,1,1,4.2,16,1,Renunció,3-5 años
+EMP-0950,37,Finanzas,Supervisor,0,3735.0,1,1,4.6,20,0,Se quedó,
+EMP-0951,40,RRHH,Gerente,6,2764.0,1,1,3.4,24,1,Renunció,6-10 años
+EMP-0952,39,Ventas,Supervisor,17,1713.0,0,2,5.0,35,1,Renunció,11+ años
+EMP-0953,22,Marketing,Coordinador,8,2698.0,0,1,4.9,44,1,Renunció,6-10 años
+EMP-0954,35,Marketing,Coordinador,2,3374.0,0,3,4.6,51,1,Renunció,0-2 años
+EMP-0955,23,Marketing,Supervisor,7,2366.0,1,3,3.7,19,0,Se quedó,6-10 años
+EMP-0956,49,Finanzas,Analista,18,2514.0,0,2,3.2,56,0,Se quedó,11+ años
+EMP-0957,51,Marketing,Analista,3,1957.0,1,1,3.1,4,0,Se quedó,3-5 años
+EMP-0958,25,Ventas,Analista,17,2464.0,1,3,2.0,33,1,Renunció,11+ años
+EMP-0959,22,RRHH,Coordinador,19,2684.0,0,2,2.7,2,0,Se quedó,11+ años
+EMP-0960,29,Finanzas,Asistente,10,1936.0,1,3,4.2,13,0,Se quedó,6-10 años
+EMP-0961,50,RRHH,Coordinador,13,1585.0,1,2,3.8,58,0,Se quedó,11+ años
+EMP-0962,24,Finanzas,Asistente,17,4085.0,1,2,4.7,45,0,Se quedó,11+ años
+EMP-0963,53,RRHH,Supervisor,15,3108.0,0,4,2.2,30,0,Se quedó,11+ años
+EMP-0964,31,TI,Gerente,2,1960.0,0,4,2.5,34,0,Se quedó,0-2 años
+EMP-0965,31,RRHH,Asistente,14,2665.0,0,1,4.4,30,0,Se quedó,11+ años
+EMP-0966,40,Marketing,Analista,3,1500.0,1,4,3.1,51,1,Renunció,3-5 años
+EMP-0967,55,TI,Coordinador,4,1500.0,1,2,2.4,54,1,Renunció,3-5 años
+EMP-0968,54,RRHH,Supervisor,16,3766.0,0,3,5.0,24,0,Se quedó,11+ años
+EMP-0969,44,Finanzas,Analista,6,2675.0,1,3,4.4,48,1,Renunció,6-10 años
+EMP-0970,49,Finanzas,Supervisor,15,2394.0,0,1,3.2,44,1,Renunció,11+ años
+EMP-0971,53,Finanzas,Gerente,13,2679.0,1,4,4.5,33,0,Se quedó,11+ años
+EMP-0972,28,Operaciones,Coordinador,15,8870.0,1,1,4.0,41,1,Renunció,11+ años
+EMP-0973,50,Ventas,Coordinador,6,3455.0,1,2,4.4,49,0,Se quedó,6-10 años
+EMP-0974,29,Finanzas,Gerente,8,1607.0,1,4,4.4,10,0,Se quedó,6-10 años
+EMP-0975,22,TI,Coordinador,3,1500.0,0,1,2.3,18,1,Renunció,3-5 años
+EMP-0976,24,Finanzas,Asistente,10,3721.0,0,3,3.9,19,1,Renunció,6-10 años
+EMP-0977,45,Operaciones,Supervisor,1,3437.0,1,3,2.0,7,1,Renunció,0-2 años
+EMP-0978,44,Marketing,Analista,11,3072.0,0,1,2.1,57,0,Se quedó,11+ años
+EMP-0979,29,TI,Gerente,11,1763.0,0,1,4.7,19,1,Renunció,11+ años
+EMP-0980,24,Operaciones,Asistente,3,2822.0,1,1,3.6,24,1,Renunció,3-5 años
+EMP-0981,54,Marketing,Analista,17,1827.0,0,2,4.2,15,0,Se quedó,11+ años
+EMP-0982,49,TI,Analista,6,3182.0,1,2,4.5,41,0,Se quedó,6-10 años
+EMP-0983,29,RRHH,Gerente,0,3616.0,1,3,4.8,42,1,Renunció,
+EMP-0984,55,Ventas,Asistente,12,1964.0,1,2,4.6,23,1,Renunció,11+ años
+EMP-0985,56,Ventas,Analista,5,3838.0,1,2,3.4,52,0,Se quedó,3-5 años
+EMP-0986,53,Operaciones,Analista,5,2555.0,1,4,3.0,52,0,Se quedó,3-5 años
+EMP-0987,45,Marketing,Asistente,11,2971.0,1,2,2.5,4,0,Se quedó,11+ años
+EMP-0988,35,Ventas,Coordinador,7,1500.0,1,4,3.2,38,0,Se quedó,6-10 años
+EMP-0989,53,Marketing,Analista,18,2678.0,0,2,3.1,4,1,Renunció,11+ años
+EMP-0990,37,Marketing,Supervisor,4,1863.0,1,3,3.7,5,0,Se quedó,3-5 años
+EMP-0991,25,Operaciones,Asistente,17,2951.0,1,1,4.0,41,0,Se quedó,11+ años
+EMP-0992,42,Operaciones,Analista,4,4389.0,0,3,4.9,44,1,Renunció,3-5 años
+EMP-0993,35,Operaciones,Gerente,9,2740.0,0,2,4.2,23,0,Se quedó,6-10 años
+EMP-0994,52,Ventas,Supervisor,0,1702.0,1,1,3.9,40,0,Se quedó,
+EMP-0995,39,Operaciones,Analista,9,3136.0,0,1,3.0,53,0,Se quedó,6-10 años
+EMP-0996,28,Ventas,Supervisor,4,2866.0,1,1,2.1,37,1,Renunció,3-5 años
+EMP-0997,31,Operaciones,Supervisor,11,5560.0,1,4,2.9,11,0,Se quedó,11+ años
+EMP-0998,28,Finanzas,Coordinador,6,2702.0,0,3,4.3,55,0,Se quedó,6-10 años
+EMP-0999,54,Marketing,Supervisor,8,1931.0,1,4,2.6,11,1,Renunció,6-10 años
+EMP-1000,44,Operaciones,Coordinador,11,3322.0,0,1,4.1,13,0,Se quedó,11+ años
+EMP-1001,42,TI,Asistente,0,2319.0,1,3,3.7,14,0,Se quedó,
+EMP-1002,40,Marketing,Coordinador,10,2520.0,0,3,2.5,8,0,Se quedó,6-10 años
+EMP-1003,40,Marketing,Gerente,14,1683.0,1,2,2.8,25,1,Renunció,11+ años
+EMP-1004,57,Operaciones,Analista,1,2324.0,0,4,3.5,18,1,Renunció,0-2 años
+EMP-1005,50,RRHH,Asistente,19,2471.0,0,4,3.3,51,0,Se quedó,11+ años
+EMP-1006,39,Operaciones,Asistente,6,2318.0,0,2,4.3,44,0,Se quedó,6-10 años
+EMP-1007,23,Marketing,Gerente,11,1927.0,0,4,4.2,44,0,Se quedó,11+ años
+EMP-1008,22,TI,Coordinador,17,2739.0,0,1,3.7,18,0,Se quedó,11+ años
+EMP-1009,26,Marketing,Analista,2,1687.0,0,1,4.5,10,0,Se quedó,0-2 años
+EMP-1010,41,TI,Coordinador,6,1535.0,0,4,3.7,7,0,Se quedó,6-10 años
+EMP-1011,32,Ventas,Supervisor,10,3242.0,1,2,4.9,50,1,Renunció,6-10 años
+EMP-1012,23,Finanzas,Coordinador,17,3125.0,1,3,2.7,44,0,Se quedó,11+ años
+EMP-1013,24,Marketing,Asistente,11,1500.0,1,4,4.1,14,0,Se quedó,11+ años
+EMP-1014,44,Operaciones,Analista,5,1500.0,1,3,3.1,15,0,Se quedó,3-5 años
+EMP-1015,33,Ventas,Coordinador,4,1630.0,0,2,2.8,16,0,Se quedó,3-5 años
+EMP-1016,41,Finanzas,Analista,0,2319.0,0,3,2.5,2,0,Se quedó,
+EMP-1017,26,Operaciones,Analista,11,3873.0,0,2,3.7,30,1,Renunció,11+ años
+EMP-1018,51,RRHH,Supervisor,10,2296.0,1,2,2.6,30,1,Renunció,6-10 años
+EMP-1019,30,Operaciones,Supervisor,3,1794.0,1,1,2.6,18,0,Se quedó,3-5 años
+EMP-1020,55,TI,Asistente,17,2590.0,0,1,5.0,31,1,Renunció,11+ años
+EMP-1021,56,TI,Gerente,3,2332.0,0,2,4.4,44,0,Se quedó,3-5 años
+EMP-1022,43,RRHH,Analista,16,1500.0,0,4,4.2,48,1,Renunció,11+ años
+EMP-1023,45,Ventas,Gerente,1,1500.0,1,1,4.4,13,0,Se quedó,0-2 años
+EMP-1024,38,Finanzas,Asistente,1,1500.0,1,2,4.9,20,1,Renunció,0-2 años
+EMP-1025,31,Operaciones,Analista,11,6581.0,0,3,3.7,49,1,Renunció,11+ años
+EMP-1026,51,TI,Analista,5,3443.0,0,3,2.7,50,0,Se quedó,3-5 años
+EMP-1027,44,Ventas,Gerente,9,1925.0,1,4,4.6,35,0,Se quedó,6-10 años
+EMP-1028,53,RRHH,Coordinador,15,3802.0,1,3,4.2,23,0,Se quedó,11+ años
+EMP-1029,38,Marketing,Supervisor,13,1945.0,0,3,3.2,42,1,Renunció,11+ años
+EMP-1030,38,TI,Coordinador,6,3752.0,1,2,3.4,33,0,Se quedó,6-10 años
+EMP-1031,35,RRHH,Gerente,18,2520.0,0,3,3.2,38,0,Se quedó,11+ años
+EMP-1032,30,Operaciones,Supervisor,16,1875.0,1,3,4.8,35,0,Se quedó,11+ años
+EMP-1033,23,Finanzas,Coordinador,8,3203.0,1,3,3.0,51,0,Se quedó,6-10 años
+EMP-1034,46,TI,Supervisor,12,2579.0,0,3,4.9,36,0,Se quedó,11+ años
+EMP-1035,30,TI,Analista,4,2862.0,0,2,4.7,20,0,Se quedó,3-5 años
+EMP-1036,43,Operaciones,Coordinador,4,2660.0,1,3,3.9,55,0,Se quedó,3-5 años
+EMP-1037,25,Marketing,Supervisor,9,2649.0,0,4,3.7,3,0,Se quedó,6-10 años
+EMP-1038,47,Ventas,Supervisor,9,3362.0,1,1,3.1,8,1,Renunció,6-10 años
+EMP-1039,50,Finanzas,Supervisor,6,6860.0,1,4,2.1,40,0,Se quedó,6-10 años
+EMP-1040,55,TI,Coordinador,14,4022.0,1,1,2.4,59,1,Renunció,11+ años
+EMP-1041,44,Finanzas,Asistente,6,2665.0,0,4,4.3,32,1,Renunció,6-10 años
+EMP-1042,32,TI,Coordinador,14,2155.0,0,1,3.4,29,1,Renunció,11+ años
+EMP-1043,27,Finanzas,Gerente,2,2252.0,1,1,2.4,7,1,Renunció,0-2 años
+EMP-1044,39,RRHH,Coordinador,18,1500.0,0,1,2.8,2,0,Se quedó,11+ años
+EMP-1045,42,TI,Supervisor,9,3184.0,1,1,4.8,21,0,Se quedó,6-10 años
+EMP-1046,57,Finanzas,Analista,14,1626.0,1,2,3.1,6,1,Renunció,11+ años
+EMP-1047,55,Ventas,Coordinador,2,2103.0,0,4,4.7,28,1,Renunció,0-2 años
+EMP-1048,38,RRHH,Coordinador,5,3191.0,1,1,2.9,48,0,Se quedó,3-5 años
+EMP-1049,46,RRHH,Supervisor,11,2220.0,0,4,3.6,42,1,Renunció,11+ años
+EMP-1050,33,Ventas,Analista,14,2004.0,0,3,2.1,36,0,Se quedó,11+ años
+EMP-1051,44,Finanzas,Analista,5,1512.0,1,1,3.6,32,0,Se quedó,3-5 años
+EMP-1052,43,Operaciones,Gerente,12,3953.0,1,4,3.9,45,1,Renunció,11+ años
+EMP-1053,42,Ventas,Coordinador,18,1749.0,0,2,2.7,42,1,Renunció,11+ años
+EMP-1054,48,Finanzas,Analista,2,1931.0,1,4,3.7,53,0,Se quedó,0-2 años
+EMP-1055,52,Ventas,Analista,7,1500.0,0,1,3.9,46,0,Se quedó,6-10 años
+EMP-1056,27,Ventas,Asistente,7,2421.0,0,3,4.1,9,0,Se quedó,6-10 años
+EMP-1057,48,TI,Asistente,19,2136.0,0,4,4.3,11,0,Se quedó,11+ años
+EMP-1058,55,Finanzas,Analista,14,2625.0,1,3,2.9,23,0,Se quedó,11+ años
+EMP-1059,33,Operaciones,Gerente,3,1526.0,0,2,3.7,50,0,Se quedó,3-5 años
+EMP-1060,28,TI,Analista,18,3274.0,0,4,4.9,11,0,Se quedó,11+ años
+EMP-1061,31,Ventas,Supervisor,2,1500.0,0,4,4.7,49,1,Renunció,0-2 años
+EMP-1062,38,Marketing,Coordinador,12,2352.0,1,2,4.9,2,0,Se quedó,11+ años
+EMP-1063,47,Ventas,Gerente,7,2556.0,0,2,3.2,3,0,Se quedó,6-10 años
+EMP-1064,42,Ventas,Supervisor,15,2498.0,0,2,4.4,11,1,Renunció,11+ años
+EMP-1065,49,Finanzas,Gerente,12,2600.0,0,1,3.9,50,1,Renunció,11+ años
+EMP-1066,23,Finanzas,Supervisor,2,3346.0,1,1,2.2,59,1,Renunció,0-2 años
+EMP-1067,22,TI,Coordinador,15,4146.0,1,4,4.5,35,1,Renunció,11+ años
+EMP-1068,57,Operaciones,Coordinador,8,2293.0,0,4,4.0,58,1,Renunció,6-10 años
+EMP-1069,47,TI,Asistente,13,1657.0,1,4,2.6,15,0,Se quedó,11+ años
+EMP-1070,50,RRHH,Supervisor,12,3054.0,0,3,2.2,43,0,Se quedó,11+ años
+EMP-1071,42,Ventas,Asistente,6,2182.0,1,2,4.5,11,0,Se quedó,6-10 años
+EMP-1072,32,Marketing,Supervisor,14,4047.0,0,4,2.2,31,0,Se quedó,11+ años
+EMP-1073,32,Ventas,Asistente,6,1918.0,0,2,2.3,28,0,Se quedó,6-10 años
+EMP-1074,57,Ventas,Coordinador,5,1732.0,0,1,3.3,28,0,Se quedó,3-5 años
+EMP-1075,56,TI,Gerente,1,2585.0,1,2,2.4,32,1,Renunció,0-2 años
+EMP-1076,55,Marketing,Asistente,8,1500.0,1,3,4.7,25,0,Se quedó,6-10 años
+EMP-1077,45,Marketing,Supervisor,16,2024.0,0,3,3.4,20,0,Se quedó,11+ años
+EMP-1078,43,Marketing,Supervisor,4,2139.0,1,2,3.7,28,0,Se quedó,3-5 años
+EMP-1079,26,TI,Coordinador,11,2666.0,0,3,4.8,25,0,Se quedó,11+ años
+EMP-1080,54,Ventas,Supervisor,0,1638.0,0,3,3.6,11,0,Se quedó,
+EMP-1081,57,TI,Analista,9,1717.0,0,1,3.1,19,0,Se quedó,6-10 años
+EMP-1082,41,Finanzas,Gerente,10,3877.0,1,4,4.4,28,0,Se quedó,6-10 años
+EMP-1083,40,Finanzas,Asistente,15,2427.0,1,3,3.3,1,1,Renunció,11+ años
+EMP-1084,56,TI,Gerente,13,3449.0,0,4,3.0,59,0,Se quedó,11+ años
+EMP-1085,38,Marketing,Coordinador,7,1965.0,0,2,4.2,5,1,Renunció,6-10 años
+EMP-1086,55,Ventas,Asistente,16,2388.0,0,2,4.4,10,1,Renunció,11+ años
+EMP-1087,30,TI,Asistente,17,2659.0,0,3,4.4,42,0,Se quedó,11+ años
+EMP-1088,47,TI,Analista,11,4910.0,0,2,4.9,46,0,Se quedó,11+ años
+EMP-1089,23,TI,Coordinador,16,2237.0,0,1,4.4,34,1,Renunció,11+ años
+EMP-1090,30,RRHH,Supervisor,13,2284.0,0,3,4.3,36,0,Se quedó,11+ años
+EMP-1091,30,Finanzas,Analista,15,3787.0,0,3,4.6,2,0,Se quedó,11+ años
+EMP-1092,38,Marketing,Analista,13,2097.0,0,3,2.0,18,0,Se quedó,11+ años
+EMP-1093,22,Operaciones,Gerente,8,2735.0,0,2,3.1,13,0,Se quedó,6-10 años
+EMP-1094,46,Marketing,Gerente,3,3657.0,0,2,4.2,51,1,Renunció,3-5 años
+EMP-1095,46,Operaciones,Gerente,10,1938.0,1,3,3.8,5,0,Se quedó,6-10 años
+EMP-1096,56,RRHH,Analista,5,2797.0,0,4,2.5,20,0,Se quedó,3-5 años
+EMP-1097,24,TI,Supervisor,14,4906.0,1,2,2.9,2,0,Se quedó,11+ años
+EMP-1098,51,RRHH,Asistente,4,3528.0,0,2,3.0,11,0,Se quedó,3-5 años
+EMP-1099,55,RRHH,Gerente,10,2735.0,0,3,3.7,30,0,Se quedó,6-10 años
+EMP-1100,33,Ventas,Supervisor,17,2231.0,0,4,4.5,32,0,Se quedó,11+ años
+EMP-1101,40,Finanzas,Coordinador,12,1917.0,0,3,4.8,32,0,Se quedó,11+ años
+EMP-1102,38,Operaciones,Gerente,10,1644.0,0,2,4.3,58,1,Renunció,6-10 años
+EMP-1103,31,TI,Asistente,13,4464.0,1,3,4.5,50,0,Se quedó,11+ años
+EMP-1104,33,Operaciones,Coordinador,17,4131.0,0,3,3.4,38,0,Se quedó,11+ años
+EMP-1105,37,Marketing,Coordinador,18,1876.0,0,3,3.2,55,0,Se quedó,11+ años
+EMP-1106,45,Operaciones,Asistente,14,2794.0,1,4,3.2,28,0,Se quedó,11+ años
+EMP-1107,40,Marketing,Gerente,8,2552.0,0,3,3.8,10,0,Se quedó,6-10 años
+EMP-1108,29,Finanzas,Analista,7,3920.0,1,2,2.4,22,1,Renunció,6-10 años
+EMP-1109,52,Marketing,Asistente,19,2844.0,0,3,3.7,55,1,Renunció,11+ años
+EMP-1110,42,Operaciones,Asistente,0,2418.0,1,4,4.0,17,0,Se quedó,
+EMP-1111,38,Operaciones,Asistente,3,1965.0,0,1,3.3,22,0,Se quedó,3-5 años
+EMP-1112,44,Marketing,Coordinador,13,2797.0,0,4,4.9,43,0,Se quedó,11+ años
+EMP-1113,37,RRHH,Supervisor,1,2123.0,1,3,3.8,19,0,Se quedó,0-2 años
+EMP-1114,27,Finanzas,Analista,15,2666.0,0,1,2.7,17,1,Renunció,11+ años
+EMP-1115,29,Ventas,Gerente,2,2368.0,0,3,3.4,24,0,Se quedó,0-2 años
+EMP-1116,46,TI,Gerente,7,2103.0,1,4,4.0,36,0,Se quedó,6-10 años
+EMP-1117,39,Operaciones,Supervisor,5,1654.0,0,1,3.0,32,0,Se quedó,3-5 años
+EMP-1118,46,TI,Asistente,15,2998.0,0,1,2.2,58,1,Renunció,11+ años
+EMP-1119,33,Ventas,Analista,15,2483.0,1,3,3.8,56,0,Se quedó,11+ años
+EMP-1120,36,TI,Gerente,6,4989.0,0,3,4.8,58,0,Se quedó,6-10 años
+EMP-1121,47,Ventas,Gerente,12,1615.0,1,4,3.5,46,0,Se quedó,11+ años
+EMP-1122,47,Marketing,Asistente,12,3134.0,1,3,4.7,59,0,Se quedó,11+ años
+EMP-1123,53,RRHH,Supervisor,4,2361.0,0,1,4.5,52,0,Se quedó,3-5 años
+EMP-1124,31,Operaciones,Analista,19,5653.0,0,2,2.4,36,0,Se quedó,11+ años
+EMP-1125,37,Ventas,Supervisor,17,3040.0,0,2,4.1,28,0,Se quedó,11+ años
+EMP-1126,28,TI,Supervisor,14,2779.0,0,4,3.3,14,0,Se quedó,11+ años
+EMP-1127,38,Operaciones,Analista,17,2364.0,1,3,2.8,58,0,Se quedó,11+ años
+EMP-1128,44,RRHH,Analista,1,1842.0,0,4,4.1,36,1,Renunció,0-2 años
+EMP-1129,47,Marketing,Gerente,9,2764.0,0,2,4.2,6,0,Se quedó,6-10 años
+EMP-1130,42,Operaciones,Gerente,12,1500.0,1,2,2.5,9,0,Se quedó,11+ años
+EMP-1131,43,Ventas,Analista,17,1500.0,1,3,4.7,21,0,Se quedó,11+ años
+EMP-1132,28,RRHH,Coordinador,14,3659.0,0,1,4.3,12,0,Se quedó,11+ años
+EMP-1133,35,TI,Gerente,11,1500.0,0,3,4.8,58,0,Se quedó,11+ años
+EMP-1134,36,RRHH,Coordinador,14,2148.0,1,2,3.0,30,0,Se quedó,11+ años
+EMP-1135,28,RRHH,Analista,12,1604.0,1,1,4.8,31,1,Renunció,11+ años
+EMP-1136,30,Finanzas,Gerente,17,2078.0,1,4,3.1,40,0,Se quedó,11+ años
+EMP-1137,29,RRHH,Supervisor,14,2628.0,0,2,2.2,56,1,Renunció,11+ años
+EMP-1138,44,RRHH,Analista,10,3619.0,0,4,4.3,4,1,Renunció,6-10 años
+EMP-1139,50,Operaciones,Asistente,18,3972.0,0,1,4.1,31,0,Se quedó,11+ años
+EMP-1140,39,TI,Coordinador,2,1690.0,0,4,3.8,27,0,Se quedó,0-2 años
+EMP-1141,52,Operaciones,Analista,6,2026.0,1,2,3.5,58,0,Se quedó,6-10 años
+EMP-1142,51,Operaciones,Analista,13,12345.0,1,3,2.1,57,1,Renunció,11+ años
+EMP-1143,56,Ventas,Gerente,13,2208.0,1,4,3.9,25,0,Se quedó,11+ años
+EMP-1144,39,Operaciones,Gerente,12,1715.0,0,2,3.3,5,1,Renunció,11+ años
+EMP-1145,38,Finanzas,Gerente,11,1833.0,1,2,3.7,6,0,Se quedó,11+ años
+EMP-1146,35,Finanzas,Asistente,8,2214.0,1,1,3.3,5,0,Se quedó,6-10 años
+EMP-1147,52,Ventas,Gerente,0,2086.0,1,2,4.9,51,1,Renunció,
+EMP-1148,45,Marketing,Analista,18,2222.0,0,3,3.8,27,0,Se quedó,11+ años
+EMP-1149,56,TI,Gerente,10,2420.0,0,3,4.2,8,1,Renunció,6-10 años
+EMP-1150,55,TI,Supervisor,18,2413.0,1,4,4.8,9,0,Se quedó,11+ años
+EMP-1151,24,Operaciones,Gerente,17,1665.0,0,4,3.8,15,0,Se quedó,11+ años
+EMP-1152,47,Operaciones,Asistente,11,2829.0,1,4,2.0,36,0,Se quedó,11+ años
+EMP-1153,44,Marketing,Supervisor,0,2562.0,0,4,2.1,57,0,Se quedó,
+EMP-1154,36,Operaciones,Analista,18,2977.0,1,3,4.1,41,1,Renunció,11+ años
+EMP-1155,25,TI,Analista,19,1500.0,1,1,2.8,7,1,Renunció,11+ años
+EMP-1156,50,RRHH,Coordinador,16,2599.0,1,4,3.7,32,1,Renunció,11+ años
+EMP-1157,43,Finanzas,Supervisor,4,1500.0,0,1,2.6,8,0,Se quedó,3-5 años
+EMP-1158,46,RRHH,Coordinador,2,2275.0,1,2,2.8,47,0,Se quedó,0-2 años
+EMP-1159,34,RRHH,Supervisor,1,3175.0,1,2,3.5,51,1,Renunció,0-2 años
+EMP-1160,39,TI,Supervisor,2,3708.0,0,4,4.9,15,0,Se quedó,0-2 años
+EMP-1161,54,RRHH,Asistente,7,2790.0,1,2,3.8,37,1,Renunció,6-10 años
+EMP-1162,37,Marketing,Coordinador,15,3198.0,0,1,4.8,19,0,Se quedó,11+ años
+EMP-1163,23,Ventas,Asistente,5,2165.0,0,1,4.9,39,0,Se quedó,3-5 años
+EMP-1164,56,Operaciones,Supervisor,12,1991.0,0,2,2.6,6,0,Se quedó,11+ años
+EMP-1165,55,Ventas,Analista,15,7166.0,1,4,2.9,59,0,Se quedó,11+ años
+EMP-1166,51,Finanzas,Supervisor,15,3398.0,0,1,4.3,19,1,Renunció,11+ años
+EMP-1167,34,Operaciones,Asistente,2,1527.0,1,1,4.6,57,0,Se quedó,0-2 años
+EMP-1168,34,RRHH,Coordinador,12,1500.0,0,3,3.6,28,1,Renunció,11+ años
+EMP-1169,39,Finanzas,Coordinador,13,2026.0,0,4,5.0,17,1,Renunció,11+ años
+EMP-1170,53,Operaciones,Asistente,7,3931.0,1,3,2.0,42,0,Se quedó,6-10 años
+EMP-1171,53,Marketing,Coordinador,11,2489.0,1,2,2.9,19,0,Se quedó,11+ años
+EMP-1172,56,Marketing,Gerente,7,1500.0,1,2,3.9,31,1,Renunció,6-10 años
+EMP-1173,50,Marketing,Analista,8,2274.0,0,3,3.4,11,0,Se quedó,6-10 años
+EMP-1174,50,Marketing,Analista,0,2438.0,0,4,2.3,15,0,Se quedó,
+EMP-1175,37,RRHH,Analista,5,1500.0,1,1,3.1,10,1,Renunció,3-5 años
+EMP-1176,31,Ventas,Coordinador,18,2464.0,1,2,2.1,43,0,Se quedó,11+ años
+EMP-1177,51,Operaciones,Coordinador,10,1627.0,0,4,3.9,23,0,Se quedó,6-10 años
+EMP-1178,46,RRHH,Supervisor,10,1500.0,0,4,4.7,3,1,Renunció,6-10 años
+EMP-1179,41,Marketing,Supervisor,12,4637.0,1,2,4.7,3,0,Se quedó,11+ años
+EMP-1180,26,Ventas,Analista,10,1599.0,0,2,4.1,18,0,Se quedó,6-10 años
+EMP-1181,22,Finanzas,Gerente,17,1869.0,1,4,3.4,25,0,Se quedó,11+ años
+EMP-1182,51,Finanzas,Supervisor,14,1859.0,0,1,3.5,43,0,Se quedó,11+ años
+EMP-1183,24,Finanzas,Supervisor,0,2443.0,0,3,2.4,20,1,Renunció,
+EMP-1184,35,Marketing,Coordinador,6,4947.0,1,2,3.0,58,0,Se quedó,6-10 años
+EMP-1185,51,Finanzas,Gerente,12,1513.0,0,3,2.6,29,1,Renunció,11+ años
+EMP-1186,25,TI,Analista,11,2159.0,0,4,4.5,22,0,Se quedó,11+ años
+EMP-1187,39,Operaciones,Supervisor,17,2561.0,1,3,4.7,50,1,Renunció,11+ años
+EMP-1188,46,Operaciones,Gerente,18,1724.0,0,1,3.6,57,1,Renunció,11+ años
+EMP-1189,22,Marketing,Gerente,14,2145.0,0,4,4.2,15,0,Se quedó,11+ años
+EMP-1190,36,TI,Analista,7,3096.0,1,1,2.4,39,1,Renunció,6-10 años
+EMP-1191,30,RRHH,Gerente,18,1804.0,0,4,3.8,10,0,Se quedó,11+ años
+EMP-1192,36,RRHH,Gerente,9,2131.0,0,1,4.1,21,1,Renunció,6-10 años
+EMP-1193,45,Finanzas,Gerente,6,2054.0,0,4,3.4,55,0,Se quedó,6-10 años
+EMP-1194,25,Ventas,Supervisor,17,2341.0,0,1,2.7,52,0,Se quedó,11+ años
+EMP-1195,33,RRHH,Analista,15,2690.0,1,4,4.6,29,0,Se quedó,11+ años
+EMP-1196,27,Ventas,Gerente,19,3086.0,1,1,4.2,32,1,Renunció,11+ años
+EMP-1197,45,Operaciones,Gerente,5,5298.0,0,4,4.7,10,0,Se quedó,3-5 años
+EMP-1198,32,Ventas,Supervisor,8,1500.0,1,1,4.5,13,0,Se quedó,6-10 años
+EMP-1199,34,Operaciones,Analista,12,2283.0,1,2,5.0,47,0,Se quedó,11+ años
+EMP-1200,55,TI,Coordinador,7,1500.0,0,3,2.6,23,0,Se quedó,6-10 años
+EMP-1201,46,TI,Supervisor,15,2092.0,1,4,2.3,50,0,Se quedó,11+ años
+EMP-1202,28,Marketing,Analista,12,3472.0,0,1,3.0,23,0,Se quedó,11+ años
+EMP-1203,25,Marketing,Gerente,12,3941.0,1,2,2.4,31,0,Se quedó,11+ años
+EMP-1204,29,Finanzas,Analista,16,4015.0,1,4,3.6,4,0,Se quedó,11+ años
+EMP-1205,41,RRHH,Analista,19,4000.0,0,4,3.9,52,0,Se quedó,11+ años
+EMP-1206,50,Finanzas,Analista,4,2277.0,0,4,3.7,49,0,Se quedó,3-5 años
+EMP-1207,31,Operaciones,Coordinador,16,4270.0,0,3,2.8,3,0,Se quedó,11+ años
+EMP-1208,55,Finanzas,Analista,8,4623.0,0,1,4.7,21,0,Se quedó,6-10 años
+EMP-1209,47,Ventas,Coordinador,1,2580.0,0,1,2.1,53,1,Renunció,0-2 años
+EMP-1210,24,Operaciones,Gerente,17,3908.0,1,4,3.0,2,0,Se quedó,11+ años
+EMP-1211,27,Marketing,Coordinador,8,2481.0,0,4,4.2,4,0,Se quedó,6-10 años
+EMP-1212,26,TI,Gerente,5,4290.0,0,4,4.3,1,0,Se quedó,3-5 años
+EMP-1213,26,Marketing,Gerente,10,2288.0,1,2,3.2,15,0,Se quedó,6-10 años
+EMP-1214,44,RRHH,Coordinador,5,1913.0,0,4,2.1,57,0,Se quedó,3-5 años
+EMP-1215,30,Operaciones,Supervisor,5,1559.0,1,3,3.9,33,0,Se quedó,3-5 años
+EMP-1216,56,Operaciones,Asistente,12,2277.0,1,1,2.2,6,0,Se quedó,11+ años
+EMP-1217,41,Ventas,Analista,10,2524.0,0,3,2.3,7,1,Renunció,6-10 años
+EMP-1218,56,RRHH,Asistente,13,1672.0,0,4,4.0,19,0,Se quedó,11+ años
+EMP-1219,39,TI,Analista,1,2208.0,0,2,2.9,44,1,Renunció,0-2 años
+EMP-1220,38,Operaciones,Analista,7,1977.0,1,4,3.0,1,0,Se quedó,6-10 años
+EMP-1221,45,Operaciones,Gerente,2,1586.0,0,4,3.5,39,0,Se quedó,0-2 años
+EMP-1222,24,Ventas,Analista,2,3694.0,1,4,4.9,19,0,Se quedó,0-2 años
+EMP-1223,53,Finanzas,Analista,0,3963.0,1,4,4.9,45,1,Renunció,
+EMP-1224,56,TI,Coordinador,18,3687.0,0,4,3.2,26,0,Se quedó,11+ años
+EMP-1225,34,Marketing,Asistente,17,2360.0,1,1,2.8,44,1,Renunció,11+ años
+EMP-1226,46,RRHH,Coordinador,16,2419.0,0,3,2.9,12,1,Renunció,11+ años
+EMP-1227,30,Operaciones,Analista,19,1595.0,1,2,2.8,22,1,Renunció,11+ años
+EMP-1228,25,Operaciones,Gerente,12,2881.0,0,4,3.6,13,0,Se quedó,11+ años
+EMP-1229,35,Marketing,Coordinador,2,2612.0,1,2,3.8,28,0,Se quedó,0-2 años
+EMP-1230,55,TI,Coordinador,0,7613.0,0,1,3.5,14,0,Se quedó,
+EMP-1231,32,Finanzas,Supervisor,3,3770.0,1,3,3.2,22,0,Se quedó,3-5 años
+EMP-1232,24,Operaciones,Analista,12,2769.0,0,4,2.6,30,0,Se quedó,11+ años
+EMP-1233,49,TI,Gerente,16,2400.0,0,1,3.4,44,0,Se quedó,11+ años
+EMP-1234,50,Marketing,Coordinador,10,3643.0,0,1,3.0,20,1,Renunció,6-10 años
+EMP-1235,30,Ventas,Coordinador,1,1692.0,0,3,3.6,44,1,Renunció,0-2 años
+EMP-1236,24,Finanzas,Gerente,15,3850.0,1,4,4.0,27,1,Renunció,11+ años
+EMP-1237,46,RRHH,Analista,1,1580.0,1,3,3.9,38,0,Se quedó,0-2 años
+EMP-1238,55,Operaciones,Supervisor,18,1950.0,0,3,3.4,59,0,Se quedó,11+ años
+EMP-1239,33,TI,Coordinador,18,1500.0,0,2,3.7,42,1,Renunció,11+ años
+EMP-1240,30,Ventas,Supervisor,15,3120.0,0,2,2.9,52,0,Se quedó,11+ años
+EMP-1241,36,RRHH,Asistente,18,2697.0,0,3,2.1,56,0,Se quedó,11+ años
+EMP-1242,46,TI,Analista,8,1950.0,0,2,3.9,41,1,Renunció,6-10 años
+EMP-1243,26,TI,Asistente,0,1683.0,0,1,2.8,34,1,Renunció,
+EMP-1244,32,RRHH,Asistente,9,4236.0,0,3,4.0,39,0,Se quedó,6-10 años
+EMP-1245,55,Ventas,Asistente,18,2314.0,0,4,4.2,41,0,Se quedó,11+ años
+EMP-1246,45,Marketing,Analista,0,1796.0,1,4,4.7,57,1,Renunció,
+EMP-1247,36,Ventas,Analista,1,5265.0,0,1,4.9,44,0,Se quedó,0-2 años
+EMP-1248,29,Finanzas,Gerente,15,1877.0,0,4,2.0,37,0,Se quedó,11+ años
+EMP-1249,26,Operaciones,Supervisor,11,3849.0,1,4,5.0,1,0,Se quedó,11+ años
+EMP-1250,47,RRHH,Supervisor,7,1540.0,1,3,4.0,54,0,Se quedó,6-10 años
+EMP-1251,39,Marketing,Gerente,17,2118.0,0,1,3.9,15,1,Renunció,11+ años
+EMP-1252,27,RRHH,Gerente,1,2984.0,1,3,2.0,32,0,Se quedó,0-2 años
+EMP-1253,34,RRHH,Asistente,12,2385.0,1,1,4.6,8,0,Se quedó,11+ años
+EMP-1254,49,Ventas,Gerente,5,2691.0,0,3,2.4,33,0,Se quedó,3-5 años
+EMP-1255,26,Operaciones,Coordinador,5,1967.0,0,3,4.5,18,0,Se quedó,3-5 años
+EMP-1256,34,Finanzas,Supervisor,8,1500.0,0,2,2.0,45,0,Se quedó,6-10 años
+EMP-1257,38,TI,Gerente,15,4386.0,0,4,3.9,29,0,Se quedó,11+ años
+EMP-1258,53,TI,Coordinador,10,2016.0,0,1,3.3,32,1,Renunció,6-10 años
+EMP-1259,50,RRHH,Coordinador,6,2740.0,1,4,2.6,33,1,Renunció,6-10 años
+EMP-1260,24,Operaciones,Coordinador,9,3232.0,0,2,2.3,5,0,Se quedó,6-10 años
+EMP-1261,55,Marketing,Coordinador,9,2761.0,0,1,3.3,18,0,Se quedó,6-10 años
+EMP-1262,48,Ventas,Asistente,19,1838.0,0,2,2.4,48,0,Se quedó,11+ años
+EMP-1263,34,Operaciones,Coordinador,17,3881.0,0,4,3.5,58,0,Se quedó,11+ años
+EMP-1264,54,Operaciones,Asistente,19,2997.0,1,3,3.9,10,1,Renunció,11+ años
+EMP-1265,27,Ventas,Asistente,8,2643.0,0,2,4.5,36,1,Renunció,6-10 años
+EMP-1266,45,RRHH,Coordinador,14,2618.0,1,2,4.0,33,0,Se quedó,11+ años
+EMP-1267,40,Operaciones,Supervisor,3,4783.0,0,3,2.2,23,0,Se quedó,3-5 años
+EMP-1268,37,TI,Coordinador,7,1823.0,0,4,2.9,40,0,Se quedó,6-10 años
+EMP-1269,49,Ventas,Coordinador,8,2882.0,1,2,2.9,5,1,Renunció,6-10 años
+EMP-1270,54,Marketing,Coordinador,12,1975.0,0,4,4.7,34,0,Se quedó,11+ años
+EMP-1271,34,Finanzas,Supervisor,8,1500.0,0,3,4.6,24,0,Se quedó,6-10 años
+EMP-1272,46,RRHH,Analista,3,1500.0,1,1,3.1,17,1,Renunció,3-5 años
+EMP-1273,57,Ventas,Analista,16,1626.0,0,2,2.2,31,0,Se quedó,11+ años
+EMP-1274,48,Finanzas,Asistente,15,1875.0,1,4,4.7,7,0,Se quedó,11+ años
+EMP-1275,28,Finanzas,Asistente,14,5821.0,1,3,4.7,17,1,Renunció,11+ años
+EMP-1276,26,Marketing,Supervisor,2,3227.0,0,3,4.6,28,0,Se quedó,0-2 años
+EMP-1277,52,Operaciones,Gerente,19,3345.0,0,2,4.5,38,0,Se quedó,11+ años
+EMP-1278,44,Marketing,Analista,4,1892.0,0,1,3.4,22,0,Se quedó,3-5 años
+EMP-1279,31,Operaciones,Asistente,4,2501.0,0,2,2.5,15,1,Renunció,3-5 años
+EMP-1280,53,Operaciones,Analista,19,6139.0,1,4,3.4,37,0,Se quedó,11+ años
+EMP-1281,51,Ventas,Supervisor,14,1502.0,1,3,3.5,15,0,Se quedó,11+ años
+EMP-1282,52,Ventas,Supervisor,17,2929.0,0,1,3.5,50,0,Se quedó,11+ años
+EMP-1283,39,RRHH,Gerente,14,4650.0,0,4,3.6,50,0,Se quedó,11+ años
+EMP-1284,57,Operaciones,Gerente,1,3592.0,0,2,2.8,25,1,Renunció,0-2 años
+EMP-1285,23,Finanzas,Supervisor,12,5017.0,0,3,3.1,53,0,Se quedó,11+ años
+EMP-1286,35,TI,Asistente,3,2658.0,1,2,3.3,21,1,Renunció,3-5 años
+EMP-1287,34,RRHH,Analista,9,3107.0,0,1,2.4,55,1,Renunció,6-10 años
+EMP-1288,50,Ventas,Coordinador,12,2550.0,1,1,3.4,38,0,Se quedó,11+ años
+EMP-1289,33,Marketing,Gerente,9,3021.0,1,1,4.4,2,0,Se quedó,6-10 años
+EMP-1290,23,RRHH,Coordinador,8,1692.0,1,1,4.5,27,0,Se quedó,6-10 años
+EMP-1291,53,RRHH,Asistente,7,3351.0,0,1,3.2,49,0,Se quedó,6-10 años
+EMP-1292,34,RRHH,Gerente,2,2745.0,1,2,3.6,32,1,Renunció,0-2 años
+EMP-1293,48,RRHH,Coordinador,15,2503.0,1,1,2.1,21,1,Renunció,11+ años
+EMP-1294,38,TI,Asistente,13,4908.0,1,1,4.0,4,0,Se quedó,11+ años
+EMP-1295,52,Marketing,Analista,8,2195.0,0,3,3.2,44,0,Se quedó,6-10 años
+EMP-1296,55,Marketing,Asistente,10,3957.0,0,1,3.3,19,1,Renunció,6-10 años
+EMP-1297,45,Marketing,Gerente,2,4117.0,1,3,4.6,2,0,Se quedó,0-2 años
+EMP-1298,56,Operaciones,Supervisor,4,3437.0,0,3,3.4,26,0,Se quedó,3-5 años
+EMP-1299,27,Finanzas,Analista,9,1659.0,0,3,2.1,34,1,Renunció,6-10 años
+EMP-1300,40,Marketing,Coordinador,12,2818.0,1,2,2.7,14,0,Se quedó,11+ años
+EMP-1301,51,RRHH,Gerente,3,5342.0,0,2,3.4,15,0,Se quedó,3-5 años
+EMP-1302,28,RRHH,Supervisor,12,1500.0,0,4,3.3,20,0,Se quedó,11+ años
+EMP-1303,31,Marketing,Asistente,11,2264.0,0,4,4.6,34,1,Renunció,11+ años
+EMP-1304,53,Marketing,Supervisor,4,3885.0,1,3,3.6,36,0,Se quedó,3-5 años
+EMP-1305,55,RRHH,Gerente,9,2331.0,0,2,4.1,19,1,Renunció,6-10 años
+EMP-1306,49,Operaciones,Gerente,8,3374.0,1,1,3.4,9,0,Se quedó,6-10 años
+EMP-1307,36,Ventas,Supervisor,19,4288.0,0,4,3.3,7,0,Se quedó,11+ años
+EMP-1308,51,Ventas,Asistente,6,2678.0,0,2,3.3,30,1,Renunció,6-10 años
+EMP-1309,50,Marketing,Supervisor,1,2992.0,1,1,3.2,13,0,Se quedó,0-2 años
+EMP-1310,43,TI,Gerente,6,2532.0,0,1,3.6,27,0,Se quedó,6-10 años
+EMP-1311,25,Marketing,Gerente,7,2749.0,1,2,2.8,44,1,Renunció,6-10 años
+EMP-1312,41,Marketing,Coordinador,6,5659.0,0,4,4.7,35,0,Se quedó,6-10 años
+EMP-1313,53,Ventas,Coordinador,13,2379.0,0,2,3.0,13,1,Renunció,11+ años
+EMP-1314,57,RRHH,Analista,18,2119.0,0,4,2.4,15,1,Renunció,11+ años
+EMP-1315,25,Marketing,Gerente,4,3702.0,0,3,2.3,46,0,Se quedó,3-5 años
+EMP-1316,48,RRHH,Coordinador,17,1742.0,1,2,2.0,56,0,Se quedó,11+ años
+EMP-1317,38,RRHH,Supervisor,19,1909.0,1,2,3.3,9,0,Se quedó,11+ años
+EMP-1318,33,TI,Asistente,11,1913.0,0,4,2.6,45,0,Se quedó,11+ años
+EMP-1319,43,RRHH,Supervisor,16,2203.0,0,4,2.1,23,0,Se quedó,11+ años
+EMP-1320,38,Ventas,Asistente,12,2242.0,1,2,3.6,54,0,Se quedó,11+ años
+EMP-1321,31,Operaciones,Coordinador,1,3228.0,0,1,4.0,36,1,Renunció,0-2 años
+EMP-1322,22,Operaciones,Analista,12,2128.0,0,1,2.3,53,1,Renunció,11+ años
+EMP-1323,43,Finanzas,Supervisor,6,3281.0,1,1,3.4,40,0,Se quedó,6-10 años
+EMP-1324,47,Marketing,Supervisor,9,3448.0,1,3,4.2,3,0,Se quedó,6-10 años
+EMP-1325,39,Ventas,Supervisor,5,1879.0,1,3,5.0,34,0,Se quedó,3-5 años
+EMP-1326,35,RRHH,Asistente,2,3419.0,1,4,4.0,19,0,Se quedó,0-2 años
+EMP-1327,50,Operaciones,Coordinador,2,3545.0,1,3,2.7,28,0,Se quedó,0-2 años
+EMP-1328,33,Ventas,Supervisor,17,1500.0,0,1,4.1,23,1,Renunció,11+ años
+EMP-1329,57,Operaciones,Supervisor,10,2745.0,0,2,3.8,40,0,Se quedó,6-10 años
+EMP-1330,56,RRHH,Analista,19,1993.0,0,3,2.6,49,0,Se quedó,11+ años
+EMP-1331,33,Operaciones,Analista,4,4110.0,1,3,4.6,45,0,Se quedó,3-5 años
+EMP-1332,28,Marketing,Coordinador,18,1985.0,1,1,3.3,7,1,Renunció,11+ años
+EMP-1333,50,Marketing,Coordinador,18,1500.0,1,3,4.9,41,0,Se quedó,11+ años
+EMP-1334,32,Finanzas,Gerente,14,2412.0,1,4,4.2,12,0,Se quedó,11+ años
+EMP-1335,54,Finanzas,Analista,15,1705.0,1,2,3.9,14,1,Renunció,11+ años
+EMP-1336,27,Operaciones,Gerente,8,3428.0,1,1,4.2,46,0,Se quedó,6-10 años
+EMP-1337,36,Ventas,Asistente,3,1766.0,0,4,3.4,15,0,Se quedó,3-5 años
+EMP-1338,53,Marketing,Gerente,14,2424.0,1,1,3.5,3,1,Renunció,11+ años
+EMP-1339,32,Ventas,Supervisor,11,4529.0,0,4,4.6,15,0,Se quedó,11+ años
+EMP-1340,44,Ventas,Gerente,2,3787.0,0,2,4.0,51,1,Renunció,0-2 años
+EMP-1341,47,Operaciones,Coordinador,13,2955.0,1,2,4.7,24,0,Se quedó,11+ años
+EMP-1342,55,Ventas,Asistente,16,2319.0,1,4,4.7,52,0,Se quedó,11+ años
+EMP-1343,55,Marketing,Supervisor,18,2845.0,0,4,4.9,46,0,Se quedó,11+ años
+EMP-1344,50,RRHH,Gerente,5,3215.0,0,4,4.1,8,1,Renunció,3-5 años
+EMP-1345,25,Finanzas,Asistente,3,1645.0,1,4,3.5,5,0,Se quedó,3-5 años
+EMP-1346,38,RRHH,Asistente,6,3431.0,1,4,2.5,51,1,Renunció,6-10 años
+EMP-1347,56,Ventas,Supervisor,18,1571.0,1,4,4.1,4,1,Renunció,11+ años
+EMP-1348,34,RRHH,Gerente,16,3069.0,0,2,2.9,14,0,Se quedó,11+ años
+EMP-1349,36,Marketing,Asistente,15,1568.0,0,4,2.8,16,1,Renunció,11+ años
+EMP-1350,50,Marketing,Asistente,14,5351.0,0,3,2.7,20,0,Se quedó,11+ años
+EMP-1351,50,Ventas,Analista,7,3312.0,0,2,4.6,24,0,Se quedó,6-10 años
+EMP-1352,32,Operaciones,Asistente,18,1500.0,0,1,4.6,6,1,Renunció,11+ años
+EMP-1353,53,RRHH,Analista,7,2440.0,1,2,3.9,55,1,Renunció,6-10 años
+EMP-1354,23,Operaciones,Gerente,17,1981.0,0,1,3.4,57,1,Renunció,11+ años
+EMP-1355,35,Operaciones,Gerente,15,1890.0,0,1,4.0,31,0,Se quedó,11+ años
+EMP-1356,41,TI,Gerente,19,2589.0,0,3,3.8,6,0,Se quedó,11+ años
+EMP-1357,43,Ventas,Coordinador,18,1684.0,0,4,3.2,35,0,Se quedó,11+ años
+EMP-1358,32,Finanzas,Gerente,9,3310.0,1,4,3.1,15,0,Se quedó,6-10 años
+EMP-1359,48,Marketing,Asistente,16,3235.0,1,2,3.1,29,1,Renunció,11+ años
+EMP-1360,24,Marketing,Supervisor,12,2809.0,1,4,3.8,3,1,Renunció,11+ años
+EMP-1361,38,Ventas,Analista,12,2422.0,0,3,3.9,11,0,Se quedó,11+ años
+EMP-1362,49,Finanzas,Coordinador,6,3178.0,0,2,3.4,3,0,Se quedó,6-10 años
+EMP-1363,50,Marketing,Gerente,9,3349.0,0,2,4.9,28,1,Renunció,6-10 años
+EMP-1364,42,Ventas,Gerente,1,2928.0,0,2,2.3,10,1,Renunció,0-2 años
+EMP-1365,37,Marketing,Supervisor,3,1500.0,1,4,3.0,50,1,Renunció,3-5 años
+EMP-1366,41,Operaciones,Supervisor,5,1780.0,0,4,3.3,33,0,Se quedó,3-5 años
+EMP-1367,27,RRHH,Coordinador,17,2192.0,1,4,2.1,48,0,Se quedó,11+ años
+EMP-1368,40,RRHH,Analista,5,1500.0,0,2,3.1,16,0,Se quedó,3-5 años
+EMP-1369,26,Marketing,Gerente,16,2669.0,1,2,2.8,59,0,Se quedó,11+ años
+EMP-1370,24,TI,Coordinador,13,4292.0,1,1,3.5,10,0,Se quedó,11+ años
+EMP-1371,22,Finanzas,Asistente,10,4027.0,1,1,3.0,33,1,Renunció,6-10 años
+EMP-1372,36,Finanzas,Asistente,18,3281.0,0,4,4.2,36,0,Se quedó,11+ años
+EMP-1373,55,Finanzas,Coordinador,1,3265.0,1,2,3.5,3,0,Se quedó,0-2 años
+EMP-1374,56,Operaciones,Gerente,2,5920.0,1,4,2.4,5,0,Se quedó,0-2 años
+EMP-1375,46,Finanzas,Coordinador,10,3421.0,0,4,4.3,12,0,Se quedó,6-10 años
+EMP-1376,45,RRHH,Gerente,5,3534.0,0,1,2.3,57,0,Se quedó,3-5 años
+EMP-1377,33,Operaciones,Supervisor,13,1500.0,1,3,4.5,44,0,Se quedó,11+ años
+EMP-1378,39,Ventas,Coordinador,18,4159.0,1,4,4.8,13,0,Se quedó,11+ años
+EMP-1379,36,Finanzas,Gerente,15,2862.0,0,3,3.0,24,0,Se quedó,11+ años
+EMP-1380,37,Finanzas,Coordinador,6,2364.0,0,3,4.8,44,0,Se quedó,6-10 años
+EMP-1381,48,Ventas,Coordinador,7,2141.0,1,2,4.4,57,1,Renunció,6-10 años
+EMP-1382,29,Finanzas,Gerente,18,1960.0,0,2,4.8,32,0,Se quedó,11+ años
+EMP-1383,46,Ventas,Gerente,19,4035.0,0,4,4.0,16,0,Se quedó,11+ años
+EMP-1384,38,Operaciones,Analista,15,2413.0,0,1,2.7,32,1,Renunció,11+ años
+EMP-1385,50,RRHH,Coordinador,6,1989.0,1,1,4.7,45,0,Se quedó,6-10 años
+EMP-1386,29,Ventas,Asistente,8,1793.0,0,4,2.6,37,0,Se quedó,6-10 años
+EMP-1387,36,TI,Coordinador,12,2613.0,1,4,2.6,56,1,Renunció,11+ años
+EMP-1388,48,Ventas,Coordinador,0,2114.0,0,1,2.8,36,0,Se quedó,
+EMP-1389,28,Finanzas,Gerente,7,1929.0,1,3,2.9,21,1,Renunció,6-10 años
+EMP-1390,24,Operaciones,Coordinador,3,1500.0,1,4,3.5,47,0,Se quedó,3-5 años
+EMP-1391,50,Marketing,Coordinador,2,3582.0,0,3,4.1,12,0,Se quedó,0-2 años
+EMP-1392,45,Operaciones,Asistente,2,2310.0,0,4,4.8,51,1,Renunció,0-2 años
+EMP-1393,24,Marketing,Gerente,12,1581.0,0,4,2.3,21,1,Renunció,11+ años
+EMP-1394,41,Ventas,Coordinador,7,2190.0,0,3,4.9,51,0,Se quedó,6-10 años
+EMP-1395,36,RRHH,Supervisor,6,3040.0,1,3,4.8,21,0,Se quedó,6-10 años
+EMP-1396,46,TI,Analista,0,2469.0,0,1,2.2,43,1,Renunció,
+EMP-1397,51,Operaciones,Asistente,15,2634.0,1,4,3.1,53,0,Se quedó,11+ años
+EMP-1398,35,Finanzas,Coordinador,5,2482.0,0,2,4.4,6,1,Renunció,3-5 años
+EMP-1399,28,Marketing,Supervisor,6,1500.0,0,2,3.8,9,1,Renunció,6-10 años
+EMP-1400,38,Finanzas,Coordinador,11,3567.0,0,4,4.3,1,0,Se quedó,11+ años
+EMP-1401,41,RRHH,Coordinador,8,1500.0,0,4,4.2,12,0,Se quedó,6-10 años
+EMP-1402,57,Marketing,Gerente,10,2935.0,0,4,3.5,58,0,Se quedó,6-10 años
+EMP-1403,30,Operaciones,Gerente,9,3122.0,1,3,2.1,14,0,Se quedó,6-10 años
+EMP-1404,43,Ventas,Gerente,0,2235.0,0,2,3.8,6,1,Renunció,
+EMP-1405,23,Finanzas,Supervisor,17,2811.0,0,2,2.1,1,1,Renunció,11+ años
+EMP-1406,45,RRHH,Coordinador,3,2185.0,1,2,3.8,22,1,Renunció,3-5 años
+EMP-1407,29,Operaciones,Analista,4,2825.0,1,4,4.4,34,0,Se quedó,3-5 años
+EMP-1408,32,Operaciones,Asistente,8,3631.0,0,3,3.8,56,0,Se quedó,6-10 años
+EMP-1409,34,Operaciones,Gerente,16,1778.0,1,4,5.0,11,0,Se quedó,11+ años
+EMP-1410,38,Operaciones,Gerente,2,3196.0,0,1,3.4,3,0,Se quedó,0-2 años
+EMP-1411,29,Marketing,Coordinador,15,4803.0,1,1,4.2,42,0,Se quedó,11+ años
+EMP-1412,42,Operaciones,Coordinador,4,2713.0,1,2,4.0,6,1,Renunció,3-5 años
+EMP-1413,39,Finanzas,Supervisor,15,1996.0,1,4,5.0,6,0,Se quedó,11+ años
+EMP-1414,51,RRHH,Supervisor,2,6035.0,1,1,4.1,20,1,Renunció,0-2 años
+EMP-1415,39,Marketing,Gerente,19,2529.0,0,1,2.5,21,1,Renunció,11+ años
+EMP-1416,52,Operaciones,Coordinador,14,2677.0,1,4,4.9,2,0,Se quedó,11+ años
+EMP-1417,53,TI,Analista,2,2700.0,0,3,4.0,26,0,Se quedó,0-2 años
+EMP-1418,32,TI,Asistente,19,2919.0,0,4,2.2,31,0,Se quedó,11+ años
+EMP-1419,46,RRHH,Coordinador,13,2131.0,0,4,4.0,26,0,Se quedó,11+ años
+EMP-1420,54,Ventas,Coordinador,15,2633.0,1,3,4.6,56,1,Renunció,11+ años
+EMP-1421,29,Ventas,Supervisor,16,3572.0,1,2,3.7,32,0,Se quedó,11+ años
+EMP-1422,32,Marketing,Asistente,19,2102.0,0,2,3.1,10,0,Se quedó,11+ años
+EMP-1423,43,Marketing,Gerente,17,2063.0,1,2,4.5,23,1,Renunció,11+ años
+EMP-1424,45,Marketing,Coordinador,17,2171.0,1,3,4.3,58,0,Se quedó,11+ años
+EMP-1425,38,Ventas,Gerente,13,1573.0,0,1,3.6,6,0,Se quedó,11+ años
+EMP-1426,33,TI,Coordinador,17,1857.0,0,3,2.5,23,0,Se quedó,11+ años
+EMP-1427,53,Ventas,Gerente,14,1827.0,1,4,2.8,28,0,Se quedó,11+ años
+EMP-1428,36,Finanzas,Asistente,14,2440.0,0,3,4.2,49,0,Se quedó,11+ años
+EMP-1429,37,Operaciones,Supervisor,5,3410.0,0,1,4.4,30,0,Se quedó,3-5 años
+EMP-1430,43,Marketing,Asistente,14,4365.0,1,1,2.8,14,1,Renunció,11+ años
+EMP-1431,49,TI,Analista,17,2497.0,1,4,3.1,37,1,Renunció,11+ años
+EMP-1432,41,RRHH,Supervisor,3,2930.0,1,2,2.2,55,1,Renunció,3-5 años
+EMP-1433,54,RRHH,Asistente,7,2690.0,1,1,4.1,32,1,Renunció,6-10 años
+EMP-1434,31,Operaciones,Analista,14,1500.0,0,1,2.0,49,0,Se quedó,11+ años
+EMP-1435,53,TI,Coordinador,2,1542.0,0,1,2.1,34,0,Se quedó,0-2 años
+EMP-1436,54,Ventas,Coordinador,14,3309.0,1,4,2.0,41,1,Renunció,11+ años
+EMP-1437,23,Ventas,Gerente,12,3441.0,0,1,3.9,44,1,Renunció,11+ años
+EMP-1438,54,Finanzas,Supervisor,8,3409.0,1,2,3.3,51,1,Renunció,6-10 años
+EMP-1439,54,Finanzas,Coordinador,1,2273.0,0,4,2.9,22,0,Se quedó,0-2 años
+EMP-1440,34,Ventas,Supervisor,7,1500.0,0,2,4.7,31,0,Se quedó,6-10 años
+EMP-1441,51,RRHH,Coordinador,19,1617.0,0,1,2.6,7,0,Se quedó,11+ años
+EMP-1442,54,Marketing,Gerente,16,1720.0,1,1,3.2,41,0,Se quedó,11+ años
+EMP-1443,34,RRHH,Asistente,12,3139.0,0,2,4.8,21,1,Renunció,11+ años
+EMP-1444,47,Finanzas,Gerente,0,2116.0,0,4,3.3,16,1,Renunció,
+EMP-1445,43,Operaciones,Analista,1,4799.0,0,4,3.7,20,0,Se quedó,0-2 años
+EMP-1446,23,Ventas,Coordinador,14,4390.0,1,2,2.2,43,1,Renunció,11+ años
+EMP-1447,47,Finanzas,Analista,11,4767.0,0,1,4.4,44,0,Se quedó,11+ años
+EMP-1448,36,Finanzas,Analista,13,1692.0,0,3,3.3,47,0,Se quedó,11+ años
+EMP-1449,55,Marketing,Supervisor,1,2970.0,0,2,4.4,50,0,Se quedó,0-2 años
+EMP-1450,32,Ventas,Coordinador,17,2016.0,1,2,2.8,19,1,Renunció,11+ años
+EMP-1451,24,Marketing,Analista,6,2783.0,0,2,3.3,48,1,Renunció,6-10 años
+EMP-1452,27,Ventas,Asistente,5,1768.0,0,1,4.4,32,1,Renunció,3-5 años
+EMP-1453,30,Marketing,Analista,13,3986.0,0,4,4.9,15,0,Se quedó,11+ años
+EMP-1454,27,RRHH,Asistente,7,1782.0,0,1,2.2,5,0,Se quedó,6-10 años
+EMP-1455,30,Operaciones,Supervisor,1,1500.0,1,2,4.4,11,1,Renunció,0-2 años
+EMP-1456,52,Operaciones,Analista,16,5506.0,0,1,2.9,15,0,Se quedó,11+ años
+EMP-1457,53,Ventas,Gerente,4,2913.0,1,1,3.7,29,0,Se quedó,3-5 años
+EMP-1458,33,TI,Supervisor,13,1591.0,1,2,2.9,50,1,Renunció,11+ años
+EMP-1459,29,Finanzas,Asistente,19,2287.0,0,1,3.8,45,0,Se quedó,11+ años
+EMP-1460,29,Finanzas,Supervisor,2,1938.0,1,3,3.1,4,0,Se quedó,0-2 años
+EMP-1461,49,Ventas,Analista,4,2446.0,1,1,3.0,49,0,Se quedó,3-5 años
+EMP-1462,41,Marketing,Coordinador,15,3365.0,1,1,2.1,36,0,Se quedó,11+ años
+EMP-1463,28,TI,Coordinador,17,3160.0,0,4,2.4,48,0,Se quedó,11+ años
+EMP-1464,32,RRHH,Asistente,16,2701.0,0,4,4.8,23,0,Se quedó,11+ años
+EMP-1465,41,Marketing,Asistente,10,2446.0,0,2,5.0,15,0,Se quedó,6-10 años
+EMP-1466,37,Marketing,Coordinador,16,3757.0,1,2,4.3,46,1,Renunció,11+ años
+EMP-1467,25,Ventas,Asistente,15,1500.0,0,4,2.9,44,1,Renunció,11+ años
+EMP-1468,27,Ventas,Supervisor,1,1809.0,0,3,3.2,3,0,Se quedó,0-2 años
+EMP-1469,43,Finanzas,Gerente,3,1650.0,0,1,4.2,32,0,Se quedó,3-5 años
+EMP-1470,47,Ventas,Gerente,6,3650.0,0,3,4.9,10,0,Se quedó,6-10 años
+EMP-1471,24,Ventas,Supervisor,1,1816.0,0,3,3.4,40,1,Renunció,0-2 años
+EMP-1472,35,Ventas,Gerente,5,1500.0,0,4,4.5,38,0,Se quedó,3-5 años
+EMP-1473,32,Finanzas,Analista,16,3040.0,0,2,4.9,22,0,Se quedó,11+ años
+EMP-1474,39,RRHH,Supervisor,6,1697.0,1,1,4.6,14,1,Renunció,6-10 años
+EMP-1475,33,RRHH,Asistente,4,2121.0,0,2,2.7,17,1,Renunció,3-5 años
+EMP-1476,44,Ventas,Supervisor,4,6326.0,1,3,2.0,21,0,Se quedó,3-5 años
+EMP-1477,33,Finanzas,Coordinador,19,3344.0,0,3,3.5,51,1,Renunció,11+ años
+EMP-1478,34,RRHH,Asistente,15,2243.0,0,2,3.6,48,0,Se quedó,11+ años
+EMP-1479,46,Marketing,Coordinador,18,2325.0,1,2,2.6,15,0,Se quedó,11+ años
+EMP-1480,40,RRHH,Asistente,8,3509.0,1,4,2.9,58,0,Se quedó,6-10 años
+EMP-1481,57,RRHH,Gerente,4,3182.0,0,2,4.3,15,0,Se quedó,3-5 años
+EMP-1482,29,Finanzas,Supervisor,7,2516.0,1,2,3.4,1,0,Se quedó,6-10 años
+EMP-1483,50,Marketing,Analista,8,2544.0,1,4,3.0,24,0,Se quedó,6-10 años
+EMP-1484,53,Finanzas,Asistente,4,1500.0,1,2,3.9,55,1,Renunció,3-5 años
+EMP-1485,39,Ventas,Asistente,9,1500.0,0,3,4.0,55,0,Se quedó,6-10 años
+EMP-1486,27,Operaciones,Coordinador,1,2274.0,0,2,4.3,12,0,Se quedó,0-2 años
+EMP-1487,39,RRHH,Gerente,8,1894.0,1,1,2.5,10,0,Se quedó,6-10 años
+EMP-1488,40,Operaciones,Coordinador,10,3085.0,1,3,4.2,46,0,Se quedó,6-10 años
+EMP-1489,43,Finanzas,Coordinador,3,2641.0,0,4,3.8,42,1,Renunció,3-5 años
+EMP-1490,53,Finanzas,Gerente,1,1792.0,1,3,2.2,42,1,Renunció,0-2 años
+EMP-1491,24,Finanzas,Analista,5,2605.0,0,4,4.3,52,1,Renunció,3-5 años
+EMP-1492,49,Operaciones,Coordinador,13,2065.0,0,1,3.1,31,0,Se quedó,11+ años
+EMP-1493,31,Finanzas,Coordinador,0,5578.0,0,1,3.0,11,1,Renunció,
+EMP-1494,56,Ventas,Asistente,17,2848.0,1,3,3.3,54,1,Renunció,11+ años
+EMP-1495,50,Finanzas,Gerente,6,1500.0,0,2,3.0,16,0,Se quedó,6-10 años
+EMP-1496,36,TI,Supervisor,0,5055.0,1,3,3.0,9,0,Se quedó,
+EMP-1497,54,Operaciones,Analista,0,1895.0,0,3,4.4,47,0,Se quedó,
+EMP-1498,28,TI,Analista,0,1653.0,1,1,2.4,14,0,Se quedó,
+EMP-1499,33,Finanzas,Gerente,3,5753.0,1,4,4.9,19,0,Se quedó,3-5 años
+EMP-1500,51,Ventas,Asistente,3,2803.0,1,3,3.7,31,0,Se quedó,3-5 años
