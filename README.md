@@ -37,7 +37,3 @@ Análisis exploratorio de ventas con Python que identifica los productos y categ
 
 ---
 
-## 📬 Contacto
-- Email: Roymsyangaly@gmail.com
-- Teléfono: 991 125 617
-- Disponibilidad inmediata
